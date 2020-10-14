@@ -1,0 +1,8 @@
+2020/04/30-11:45:29.536 204cc Reusing MANIFEST /home/arthur/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_photos.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/04/30-11:45:29.536 204cc Recovering log #19
+2020/04/30-11:45:29.536 204cc Reusing old log /home/arthur/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_photos.google.com_0.indexeddb.leveldb/000019.log 
+2020/04/30-11:56:27.246 1fa2f Level-0 table #23: started
+2020/04/30-11:56:27.246 1fa2f Level-0 table #23: 0 bytes OK
+2020/04/30-11:56:27.256 1fa2f Delete type=0 #19
+2020/04/30-11:56:27.256 1fa2f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/04/30-11:56:27.256 1fa2f Manual compaction at level-1 from (begin) .. (end); will stop at (end)

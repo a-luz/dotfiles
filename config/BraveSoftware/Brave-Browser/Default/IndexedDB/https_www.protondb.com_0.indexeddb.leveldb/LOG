@@ -1,0 +1,5 @@
+2020/09/19-14:02:54.171 180f Reusing MANIFEST /home/arthur/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.protondb.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/19-14:05:47.739 7a9 Level-0 table #5: started
+2020/09/19-14:05:47.748 7a9 Level-0 table #5: 1112 bytes OK
+2020/09/19-14:05:47.751 7a9 Delete type=0 #3
+2020/09/19-14:05:47.751 7a9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,7 @@
+2020/10/05-07:45:20.957 3fb Reusing MANIFEST /home/arthur/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_lbry.tv_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/05-07:45:20.957 3fb Recovering log #3
+2020/10/05-07:45:20.966 3fb Reusing old log /home/arthur/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_lbry.tv_0.indexeddb.leveldb/000003.log 
+2020/10/05-08:08:31.276 932 Level-0 table #5: started
+2020/10/05-08:08:31.301 932 Level-0 table #5: 904924 bytes OK
+2020/10/05-08:08:31.312 932 Delete type=0 #3
+2020/10/05-08:08:31.314 932 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

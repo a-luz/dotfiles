@@ -1,0 +1,15 @@
+2020/09/09-20:25:15.998 f1cd Reusing MANIFEST /home/arthur/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.tecmundo.com.br_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/09-20:25:15.998 f1cd Recovering log #7
+2020/09/09-20:25:15.998 f1cd Reusing old log /home/arthur/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.tecmundo.com.br_0.indexeddb.leveldb/000007.log 
+2020/09/09-20:26:28.450 754 Level-0 table #12: started
+2020/09/09-20:26:28.460 754 Level-0 table #12: 4939 bytes OK
+2020/09/09-20:26:28.465 754 Delete type=0 #7
+2020/09/09-20:26:28.465 754 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/09/09-20:26:28.465 754 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x03\x00`\x8c\x09SGwB\x00\x01]\x00i\x00m\x00a\x00g\x00e\x00s\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00i\x00m\x00g\x00.\x00i\x00b\x00x\x00k\x00.\x00c\x00o\x00m\x00.\x00b\x00r\x00/\x002\x000\x002\x000\x00/\x000\x009\x00/\x000\x008\x00/\x000\x008\x001\x006\x000\x007\x005\x004\x001\x000\x009\x001\x004\x009\x00.\x00j\x00p\x00g\x00?\x00w\x00=\x001\x006\x004\x00&\x00h\x00=\x001\x001\x008\x00&\x00m\x00o\x00d\x00e\x00=\x00c\x00r\x00o\x00p\x00&\x00s\x00c\x00a\x00l\x00e\x00=\x00b\x00o\x00t\x00h' @ 809 : 1
+2020/09/09-20:26:28.465 754 Compacting 1@1 + 1@2 files
+2020/09/09-20:26:28.471 754 Generated table #13@1: 129 keys, 8598 bytes
+2020/09/09-20:26:28.471 754 Compacted 1@1 + 1@2 files => 8598 bytes
+2020/09/09-20:26:28.475 754 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/09/09-20:26:28.476 754 Delete type=2 #12
+2020/09/09-20:26:28.476 754 Delete type=2 #9
+2020/09/09-20:26:28.476 754 Manual compaction at level-1 from '\x00\x01\x01 \x03\x00`\x8c\x09SGwB\x00\x01]\x00i\x00m\x00a\x00g\x00e\x00s\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00i\x00m\x00g\x00.\x00i\x00b\x00x\x00k\x00.\x00c\x00o\x00m\x00.\x00b\x00r\x00/\x002\x000\x002\x000\x00/\x000\x009\x00/\x000\x008\x00/\x000\x008\x001\x006\x000\x007\x005\x004\x001\x000\x009\x001\x004\x009\x00.\x00j\x00p\x00g\x00?\x00w\x00=\x001\x006\x004\x00&\x00h\x00=\x001\x001\x008\x00&\x00m\x00o\x00d\x00e\x00=\x00c\x00r\x00o\x00p\x00&\x00s\x00c\x00a\x00l\x00e\x00=\x00b\x00o\x00t\x00h' @ 809 : 1 .. (end); will stop at (end)

@@ -1,0 +1,9 @@
+{
+  "spellcheckerLanguage": "en-us",
+  "darkMode": false,
+  "locale": "en-US",
+  "fallbackLocale": "en-US",
+  "beta": false,
+  "isAppMuted": false,
+  "serviceLimit": 5
+}

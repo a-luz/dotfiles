@@ -1,0 +1,66 @@
+2020/10/14-09:13:54.509 3ff Reusing MANIFEST /home/arthur/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-002027
+2020/10/14-09:13:54.510 3ff Recovering log #2104
+2020/10/14-09:13:54.561 3ff Reusing old log /home/arthur/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/002104.log 
+2020/10/14-09:31:07.140 b2a Level-0 table #2115: started
+2020/10/14-09:31:07.226 b2a Level-0 table #2115: 1351370 bytes OK
+2020/10/14-09:31:07.231 b2a Delete type=0 #2104
+2020/10/14-09:31:44.355 b2a Compacting 1@1 + 7@2 files
+2020/10/14-09:31:44.420 b2a Generated table #2116@1: 49316 keys, 2258661 bytes
+2020/10/14-09:31:44.478 b2a Generated table #2117@1: 2447 keys, 2904553 bytes
+2020/10/14-09:31:44.548 b2a Generated table #2118@1: 1422 keys, 2858606 bytes
+2020/10/14-09:31:44.678 b2a Generated table #2119@1: 1263 keys, 2856558 bytes
+2020/10/14-09:31:44.803 b2a Generated table #2120@1: 1164 keys, 2882959 bytes
+2020/10/14-09:31:45.013 b2a Generated table #2121@1: 1651 keys, 2805924 bytes
+2020/10/14-09:31:45.052 b2a Generated table #2122@1: 2164 keys, 760749 bytes
+2020/10/14-09:31:45.052 b2a Compacted 1@1 + 7@2 files => 17328010 bytes
+2020/10/14-09:31:45.060 b2a compacted to: files[ 0 0 7 0 0 0 0 ]
+2020/10/14-09:31:45.060 b2a Delete type=2 #2111
+2020/10/14-09:31:45.060 b2a Delete type=2 #2112
+2020/10/14-09:31:45.061 b2a Delete type=2 #2106
+2020/10/14-09:31:45.061 b2a Delete type=2 #2107
+2020/10/14-09:31:45.061 b2a Delete type=2 #2109
+2020/10/14-09:31:45.061 b2a Delete type=2 #2110
+2020/10/14-09:31:45.061 b2a Delete type=2 #2108
+2020/10/14-09:31:45.062 b2a Delete type=2 #2115
+2020/10/14-09:48:20.520 b2a Level-0 table #2124: started
+2020/10/14-09:48:20.606 b2a Level-0 table #2124: 1464589 bytes OK
+2020/10/14-09:48:20.610 b2a Delete type=0 #2114
+2020/10/14-09:49:44.308 b2a Compacting 1@1 + 7@2 files
+2020/10/14-09:49:44.361 b2a Generated table #2125@1: 46548 keys, 2260568 bytes
+2020/10/14-09:49:44.403 b2a Generated table #2126@1: 9548 keys, 2836373 bytes
+2020/10/14-09:49:44.450 b2a Generated table #2127@1: 1466 keys, 2866471 bytes
+2020/10/14-09:49:44.504 b2a Generated table #2128@1: 1155 keys, 2862554 bytes
+2020/10/14-09:49:44.553 b2a Generated table #2129@1: 1181 keys, 2863008 bytes
+2020/10/14-09:49:44.594 b2a Generated table #2130@1: 1528 keys, 2811458 bytes
+2020/10/14-09:49:44.613 b2a Generated table #2131@1: 2587 keys, 1133914 bytes
+2020/10/14-09:49:44.613 b2a Compacted 1@1 + 7@2 files => 17634346 bytes
+2020/10/14-09:49:44.620 b2a compacted to: files[ 0 0 7 0 0 0 0 ]
+2020/10/14-09:49:44.620 b2a Delete type=2 #2124
+2020/10/14-09:49:44.620 b2a Delete type=2 #2121
+2020/10/14-09:49:44.620 b2a Delete type=2 #2120
+2020/10/14-09:49:44.620 b2a Delete type=2 #2122
+2020/10/14-09:49:44.621 b2a Delete type=2 #2117
+2020/10/14-09:49:44.621 b2a Delete type=2 #2119
+2020/10/14-09:49:44.621 b2a Delete type=2 #2116
+2020/10/14-09:49:44.621 b2a Delete type=2 #2118
+2020/10/14-11:32:27.220 b2a Level-0 table #2133: started
+2020/10/14-11:32:27.287 b2a Level-0 table #2133: 1378111 bytes OK
+2020/10/14-11:32:27.295 b2a Delete type=0 #2123
+2020/10/14-11:33:37.321 b2a Compacting 1@1 + 7@2 files
+2020/10/14-11:33:37.402 b2a Generated table #2134@1: 39555 keys, 2268411 bytes
+2020/10/14-11:33:37.469 b2a Generated table #2135@1: 21136 keys, 2756225 bytes
+2020/10/14-11:33:37.532 b2a Generated table #2136@1: 1389 keys, 2873975 bytes
+2020/10/14-11:33:37.588 b2a Generated table #2137@1: 1267 keys, 2844403 bytes
+2020/10/14-11:33:37.650 b2a Generated table #2138@1: 1179 keys, 2851594 bytes
+2020/10/14-11:33:37.700 b2a Generated table #2139@1: 1411 keys, 2833731 bytes
+2020/10/14-11:33:37.729 b2a Generated table #2140@1: 2868 keys, 1554913 bytes
+2020/10/14-11:33:37.729 b2a Compacted 1@1 + 7@2 files => 17983252 bytes
+2020/10/14-11:33:37.736 b2a compacted to: files[ 0 0 7 0 0 0 0 ]
+2020/10/14-11:33:37.736 b2a Delete type=2 #2133
+2020/10/14-11:33:37.737 b2a Delete type=2 #2130
+2020/10/14-11:33:37.737 b2a Delete type=2 #2128
+2020/10/14-11:33:37.737 b2a Delete type=2 #2131
+2020/10/14-11:33:37.737 b2a Delete type=2 #2127
+2020/10/14-11:33:37.737 b2a Delete type=2 #2126
+2020/10/14-11:33:37.738 b2a Delete type=2 #2129
+2020/10/14-11:33:37.738 b2a Delete type=2 #2125

@@ -1,0 +1,15 @@
+2020/07/13-15:26:39.158 bdd Reusing MANIFEST /home/arthur/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.terra.com.br_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/13-15:26:39.159 bdd Recovering log #4
+2020/07/13-15:26:39.159 bdd Reusing old log /home/arthur/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.terra.com.br_0.indexeddb.leveldb/000004.log 
+2020/07/13-15:27:46.650 68d Level-0 table #8: started
+2020/07/13-15:27:46.694 68d Level-0 table #8: 1280 bytes OK
+2020/07/13-15:27:46.698 68d Delete type=0 #4
+2020/07/13-15:27:46.699 68d Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/07/13-15:27:46.699 68d Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01\x04\x00l\x00a\x00n\x00g' @ 120 : 1
+2020/07/13-15:27:46.699 68d Compacting 1@1 + 1@2 files
+2020/07/13-15:27:46.704 68d Generated table #9@1: 40 keys, 1099 bytes
+2020/07/13-15:27:46.704 68d Compacted 1@1 + 1@2 files => 1099 bytes
+2020/07/13-15:27:46.708 68d compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/07/13-15:27:46.709 68d Delete type=2 #8
+2020/07/13-15:27:46.709 68d Delete type=2 #5
+2020/07/13-15:27:46.709 68d Manual compaction at level-1 from '\x00\x02\x01\x02\x01\x04\x00l\x00a\x00n\x00g' @ 120 : 1 .. (end); will stop at (end)

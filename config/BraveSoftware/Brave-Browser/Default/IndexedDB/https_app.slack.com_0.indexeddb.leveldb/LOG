@@ -1,0 +1,15 @@
+2020/08/24-17:56:15.957 89bf Reusing MANIFEST /home/arthur/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/24-17:56:15.958 89bf Recovering log #4
+2020/08/24-17:56:15.958 89bf Reusing old log /home/arthur/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/000004.log 
+2020/08/24-17:57:33.112 1593 Level-0 table #8: started
+2020/08/24-17:57:33.130 1593 Level-0 table #8: 209201 bytes OK
+2020/08/24-17:57:33.135 1593 Delete type=0 #4
+2020/08/24-17:57:33.135 1593 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/08/24-17:57:33.136 1593 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01,\x00p\x00e\x00r\x00s\x00i\x00s\x00t\x00:\x00s\x00l\x00a\x00c\x00k\x00-\x00c\x00l\x00i\x00e\x00n\x00t\x00-\x00T\x000\x001\x009\x008\x00H\x00M\x00V\x00A\x002\x00D\x00-\x00U\x000\x001\x009\x00C\x00K\x00R\x00E\x00Q\x00C\x00D' @ 73 : 1
+2020/08/24-17:57:33.136 1593 Compacting 1@1 + 1@2 files
+2020/08/24-17:57:33.149 1593 Generated table #9@1: 22 keys, 166912 bytes
+2020/08/24-17:57:33.149 1593 Compacted 1@1 + 1@2 files => 166912 bytes
+2020/08/24-17:57:33.154 1593 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/08/24-17:57:33.154 1593 Delete type=2 #8
+2020/08/24-17:57:33.154 1593 Delete type=2 #5
+2020/08/24-17:57:33.155 1593 Manual compaction at level-1 from '\x00\x01\x01\x02\x01,\x00p\x00e\x00r\x00s\x00i\x00s\x00t\x00:\x00s\x00l\x00a\x00c\x00k\x00-\x00c\x00l\x00i\x00e\x00n\x00t\x00-\x00T\x000\x001\x009\x008\x00H\x00M\x00V\x00A\x002\x00D\x00-\x00U\x000\x001\x009\x00C\x00K\x00R\x00E\x00Q\x00C\x00D' @ 73 : 1 .. (end); will stop at (end)

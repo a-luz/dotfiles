@@ -1,0 +1,8 @@
+2020/10/06-22:54:10.443 e815 Reusing MANIFEST /home/arthur/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/06-22:54:10.443 e815 Recovering log #135
+2020/10/06-22:54:10.443 e815 Reusing old log /home/arthur/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/000135.log 
+2020/10/06-23:23:58.605 b7b Level-0 table #140: started
+2020/10/06-23:23:58.605 b7b Level-0 table #140: 0 bytes OK
+2020/10/06-23:23:58.652 b7b Delete type=0 #135
+2020/10/06-23:23:58.652 b7b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/10/06-23:23:58.653 b7b Manual compaction at level-1 from (begin) .. (end); will stop at (end)

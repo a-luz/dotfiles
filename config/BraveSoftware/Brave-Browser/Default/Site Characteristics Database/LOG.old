@@ -1,0 +1,4 @@
+2020/10/14-08:57:12.898 dcda Reusing MANIFEST /home/arthur/.config/BraveSoftware/Brave-Browser/Default/Site Characteristics Database/MANIFEST-000001
+2020/10/14-08:57:12.898 dcda Recovering log #3
+2020/10/14-08:57:12.902 dcda (ignoring error) /home/arthur/.config/BraveSoftware/Brave-Browser/Default/Site Characteristics Database/000003.log: dropping 22 bytes; Corruption: missing start of fragmented record(2)
+2020/10/14-08:57:12.908 dcda Reusing old log /home/arthur/.config/BraveSoftware/Brave-Browser/Default/Site Characteristics Database/000003.log 

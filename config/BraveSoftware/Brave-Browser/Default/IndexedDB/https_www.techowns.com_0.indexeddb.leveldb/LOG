@@ -1,0 +1,8 @@
+2020/10/08-01:19:38.357 5941 Reusing MANIFEST /home/arthur/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.techowns.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/08-01:19:38.357 5941 Recovering log #4
+2020/10/08-01:19:38.357 5941 Reusing old log /home/arthur/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.techowns.com_0.indexeddb.leveldb/000004.log 
+2020/10/08-01:20:35.096 b25 Level-0 table #8: started
+2020/10/08-01:20:35.097 b25 Level-0 table #8: 0 bytes OK
+2020/10/08-01:20:35.107 b25 Delete type=0 #4
+2020/10/08-01:20:35.107 b25 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/10/08-01:20:35.107 b25 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

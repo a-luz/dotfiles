@@ -1,0 +1,5 @@
+2020/06/10-11:56:30.930 f95 Reusing MANIFEST /home/arthur/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_covid.saude.gov.br_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/10-11:56:41.268 ff2 Level-0 table #5: started
+2020/06/10-11:56:41.272 ff2 Level-0 table #5: 1937 bytes OK
+2020/06/10-11:56:41.280 ff2 Delete type=0 #3
+2020/06/10-11:56:41.281 ff2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

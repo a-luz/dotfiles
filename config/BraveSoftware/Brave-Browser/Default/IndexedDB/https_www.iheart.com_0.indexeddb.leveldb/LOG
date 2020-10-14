@@ -1,0 +1,5 @@
+2020/10/06-20:45:39.134 c6eb Reusing MANIFEST /home/arthur/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.iheart.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/06-20:46:15.279 b7b Level-0 table #5: started
+2020/10/06-20:46:15.284 b7b Level-0 table #5: 42305 bytes OK
+2020/10/06-20:46:15.288 b7b Delete type=0 #3
+2020/10/06-20:46:15.288 b7b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

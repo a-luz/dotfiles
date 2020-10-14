@@ -1,0 +1,5 @@
+2020/06/28-16:40:37.349 4ad Reusing MANIFEST /home/arthur/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_fossbytes.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/28-16:41:05.338 8fc Level-0 table #5: started
+2020/06/28-16:41:05.348 8fc Level-0 table #5: 5690 bytes OK
+2020/06/28-16:41:05.356 8fc Delete type=0 #3
+2020/06/28-16:41:05.356 8fc Manual compaction at level-0 from (begin) .. (end); will stop at (end)

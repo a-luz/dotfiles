@@ -1,0 +1,25 @@
+2020/10/09-02:42:09.211 3fb9 Reusing MANIFEST /home/arthur/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.banggood.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/09-02:42:09.211 3fb9 Recovering log #60
+2020/10/09-02:42:09.211 3fb9 Reusing old log /home/arthur/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.banggood.com_0.indexeddb.leveldb/000060.log 
+2020/10/09-02:43:00.242 69f Level-0 table #65: started
+2020/10/09-02:43:00.248 69f Level-0 table #65: 131041 bytes OK
+2020/10/09-02:43:00.253 69f Delete type=0 #60
+2020/10/09-02:43:00.253 69f Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/10/09-02:43:16.693 69f Compacting 1@1 + 1@2 files
+2020/10/09-02:43:16.709 69f Generated table #66@1: 3661 keys, 477500 bytes
+2020/10/09-02:43:16.709 69f Compacted 1@1 + 1@2 files => 477500 bytes
+2020/10/09-02:43:16.713 69f compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/10/09-02:43:50.996 69f Level-0 table #68: started
+2020/10/09-02:43:51.037 69f Level-0 table #68: 1094 bytes OK
+2020/10/09-02:43:51.042 69f Delete type=2 #62
+2020/10/09-02:43:51.042 69f Delete type=2 #65
+2020/10/09-02:43:51.042 69f Delete type=0 #64
+2020/10/09-02:43:51.042 69f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/10/09-02:43:51.043 69f Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x03\x000|(\xbePwB\x00\x01;\x00b\x00g\x00:\x00s\x00t\x00a\x00t\x00i\x00c\x00-\x00v\x001\x00.\x002\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00s\x00.\x00s\x00t\x00a\x00t\x00i\x00c\x00b\x00g\x00.\x00c\x00o\x00m\x00/\x00d\x00e\x00t\x00a\x00i\x00l\x00/\x00i\x00m\x00a\x00g\x00e\x00s\x00/\x00c\x00u\x00r\x00.\x00g\x00i\x00f' @ 68059 : 1
+2020/10/09-02:43:51.043 69f Compacting 1@1 + 1@2 files
+2020/10/09-02:43:51.076 69f Generated table #69@1: 3661 keys, 477643 bytes
+2020/10/09-02:43:51.076 69f Compacted 1@1 + 1@2 files => 477643 bytes
+2020/10/09-02:43:51.080 69f compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/10/09-02:43:51.081 69f Delete type=2 #66
+2020/10/09-02:43:51.081 69f Delete type=2 #68
+2020/10/09-02:43:51.081 69f Manual compaction at level-1 from '\x00\x01\x01 \x03\x000|(\xbePwB\x00\x01;\x00b\x00g\x00:\x00s\x00t\x00a\x00t\x00i\x00c\x00-\x00v\x001\x00.\x002\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00s\x00.\x00s\x00t\x00a\x00t\x00i\x00c\x00b\x00g\x00.\x00c\x00o\x00m\x00/\x00d\x00e\x00t\x00a\x00i\x00l\x00/\x00i\x00m\x00a\x00g\x00e\x00s\x00/\x00c\x00u\x00r\x00.\x00g\x00i\x00f' @ 68059 : 1 .. (end); will stop at (end)

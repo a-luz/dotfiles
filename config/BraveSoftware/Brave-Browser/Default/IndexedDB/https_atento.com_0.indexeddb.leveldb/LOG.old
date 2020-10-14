@@ -1,0 +1,26 @@
+2020/05/12-15:42:52.909 49a3 Reusing MANIFEST /home/arthur/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_atento.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/12-15:42:52.910 49a3 Recovering log #22
+2020/05/12-15:42:52.910 49a3 Reusing old log /home/arthur/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_atento.com_0.indexeddb.leveldb/000022.log 
+2020/05/12-15:43:00.661 2ebe Level-0 table #28: started
+2020/05/12-15:43:00.665 2ebe Level-0 table #28: 524 bytes OK
+2020/05/12-15:43:00.669 2ebe Delete type=0 #22
+2020/05/12-15:43:00.670 2ebe Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/05/12-15:43:02.671 2ebe Level-0 table #30: started
+2020/05/12-15:43:02.681 2ebe Level-0 table #30: 218 bytes OK
+2020/05/12-15:43:02.686 2ebe Delete type=0 #27
+2020/05/12-15:43:02.686 2ebe Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x00\x00\x002\x02\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 98 : 0
+2020/05/12-15:43:02.686 2ebe Compacting 1@0 + 1@1 files
+2020/05/12-15:43:02.691 2ebe Generated table #31@0: 2 keys, 196 bytes
+2020/05/12-15:43:02.691 2ebe Compacted 1@0 + 1@1 files => 196 bytes
+2020/05/12-15:43:02.695 2ebe compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/05/12-15:43:02.696 2ebe Delete type=2 #28
+2020/05/12-15:43:02.696 2ebe Delete type=2 #30
+2020/05/12-15:43:02.696 2ebe Manual compaction at level-0 from '\x00\x00\x00\x002\x02\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 98 : 0 .. (end); will stop at (end)
+2020/05/12-15:43:02.696 2ebe Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x03' @ 93 : 0
+2020/05/12-15:43:02.696 2ebe Compacting 1@1 + 1@2 files
+2020/05/12-15:43:02.701 2ebe Generated table #32@1: 5 keys, 237 bytes
+2020/05/12-15:43:02.701 2ebe Compacted 1@1 + 1@2 files => 237 bytes
+2020/05/12-15:43:02.705 2ebe compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/05/12-15:43:02.705 2ebe Delete type=2 #31
+2020/05/12-15:43:02.705 2ebe Delete type=2 #25
+2020/05/12-15:43:02.706 2ebe Manual compaction at level-1 from '\x00\x00\x00\x00\x03' @ 93 : 0 .. (end); will stop at (end)

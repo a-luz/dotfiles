@@ -1,0 +1,15 @@
+2020/09/08-02:07:14.042 22f3c Reusing MANIFEST /home/arthur/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.rottentomatoes.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/08-02:07:14.042 22f3c Recovering log #70
+2020/09/08-02:07:14.042 22f3c Reusing old log /home/arthur/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.rottentomatoes.com_0.indexeddb.leveldb/000070.log 
+2020/09/08-02:08:23.100 2227a Level-0 table #75: started
+2020/09/08-02:08:23.109 2227a Level-0 table #75: 2068 bytes OK
+2020/09/08-02:08:23.113 2227a Delete type=0 #70
+2020/09/08-02:08:23.113 2227a Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/09/08-02:08:23.113 2227a Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x04\x01\x1f\x03\x00\xc0\xf4\xce\xc1FwB\x00\x01/\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00w\x00w\x00.\x00r\x00o\x00t\x00t\x00e\x00n\x00t\x00o\x00m\x00a\x00t\x00o\x00e\x00s\x00.\x00c\x00o\x00m\x00/\x00t\x00v\x00/\x00t\x00h\x00e\x00_\x00r\x00a\x00n\x00c\x00h\x00/\x00s\x000\x001' @ 2607 : 1
+2020/09/08-02:08:23.113 2227a Compacting 1@1 + 1@2 files
+2020/09/08-02:08:23.117 2227a Generated table #76@1: 442 keys, 34005 bytes
+2020/09/08-02:08:23.117 2227a Compacted 1@1 + 1@2 files => 34005 bytes
+2020/09/08-02:08:23.119 2227a compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/09/08-02:08:23.119 2227a Delete type=2 #75
+2020/09/08-02:08:23.119 2227a Delete type=2 #72
+2020/09/08-02:08:23.119 2227a Manual compaction at level-1 from '\x00\x04\x01\x1f\x03\x00\xc0\xf4\xce\xc1FwB\x00\x01/\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00w\x00w\x00.\x00r\x00o\x00t\x00t\x00e\x00n\x00t\x00o\x00m\x00a\x00t\x00o\x00e\x00s\x00.\x00c\x00o\x00m\x00/\x00t\x00v\x00/\x00t\x00h\x00e\x00_\x00r\x00a\x00n\x00c\x00h\x00/\x00s\x000\x001' @ 2607 : 1 .. (end); will stop at (end)

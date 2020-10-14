@@ -1,0 +1,5 @@
+2020/08/28-00:19:49.284 5326 Reusing MANIFEST /home/arthur/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.airbnb.ru_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/28-00:20:25.974 15ba Level-0 table #5: started
+2020/08/28-00:20:25.978 15ba Level-0 table #5: 1207 bytes OK
+2020/08/28-00:20:25.981 15ba Delete type=0 #3
+2020/08/28-00:20:25.981 15ba Manual compaction at level-0 from (begin) .. (end); will stop at (end)

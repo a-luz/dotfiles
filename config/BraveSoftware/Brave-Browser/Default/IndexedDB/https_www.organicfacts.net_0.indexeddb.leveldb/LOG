@@ -1,0 +1,5 @@
+2020/09/12-20:49:35.247 23fc Reusing MANIFEST /home/arthur/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.organicfacts.net_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/12-20:49:59.001 1a48 Level-0 table #5: started
+2020/09/12-20:49:59.028 1a48 Level-0 table #5: 1714 bytes OK
+2020/09/12-20:49:59.040 1a48 Delete type=0 #3
+2020/09/12-20:49:59.041 1a48 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

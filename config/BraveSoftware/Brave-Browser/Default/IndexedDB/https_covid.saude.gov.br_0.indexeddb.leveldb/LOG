@@ -1,0 +1,15 @@
+2020/07/22-15:37:03.684 a852 Reusing MANIFEST /home/arthur/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_covid.saude.gov.br_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/22-15:37:03.684 a852 Recovering log #4
+2020/07/22-15:37:03.684 a852 Reusing old log /home/arthur/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_covid.saude.gov.br_0.indexeddb.leveldb/000004.log 
+2020/07/22-15:37:15.529 1b01 Level-0 table #8: started
+2020/07/22-15:37:15.533 1b01 Level-0 table #8: 1862 bytes OK
+2020/07/22-15:37:15.537 1b01 Delete type=0 #4
+2020/07/22-15:37:15.537 1b01 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/07/22-15:37:15.537 1b01 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x014\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x001\x000\x009\x007\x000\x000\x006\x005\x004\x003\x004\x000\x003\x00:\x00w\x00e\x00b\x00:\x00a\x003\x000\x008\x00f\x002\x00e\x004\x00e\x000\x000\x006\x00a\x007\x002\x005\x009\x002\x007\x000\x006\x00e' @ 75 : 1
+2020/07/22-15:37:15.537 1b01 Compacting 1@1 + 1@2 files
+2020/07/22-15:37:15.541 1b01 Generated table #9@1: 20 keys, 1293 bytes
+2020/07/22-15:37:15.541 1b01 Compacted 1@1 + 1@2 files => 1293 bytes
+2020/07/22-15:37:15.544 1b01 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/07/22-15:37:15.545 1b01 Delete type=2 #8
+2020/07/22-15:37:15.545 1b01 Delete type=2 #5
+2020/07/22-15:37:15.545 1b01 Manual compaction at level-1 from '\x00\x01\x01\x02\x014\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x001\x000\x009\x007\x000\x000\x006\x005\x004\x003\x004\x000\x003\x00:\x00w\x00e\x00b\x00:\x00a\x003\x000\x008\x00f\x002\x00e\x004\x00e\x000\x000\x006\x00a\x007\x002\x005\x009\x002\x007\x000\x006\x00e' @ 75 : 1 .. (end); will stop at (end)

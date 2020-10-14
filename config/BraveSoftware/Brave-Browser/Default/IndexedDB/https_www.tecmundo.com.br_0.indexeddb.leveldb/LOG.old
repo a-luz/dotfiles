@@ -1,0 +1,15 @@
+2020/09/09-20:25:03.225 f1cd Reusing MANIFEST /home/arthur/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.tecmundo.com.br_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/09-20:25:03.226 f1cd Recovering log #4
+2020/09/09-20:25:03.226 f1cd Reusing old log /home/arthur/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.tecmundo.com.br_0.indexeddb.leveldb/000004.log 
+2020/09/09-20:25:08.985 754 Level-0 table #8: started
+2020/09/09-20:25:08.990 754 Level-0 table #8: 13136 bytes OK
+2020/09/09-20:25:08.995 754 Delete type=0 #4
+2020/09/09-20:25:08.995 754 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/09/09-20:25:08.996 754 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x03\x00p\x15\xfeRGwB\x00\x01H\x00i\x00m\x00a\x00g\x00e\x00s\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00i\x00m\x00g\x00.\x00i\x00b\x00x\x00k\x00.\x00c\x00o\x00m\x00.\x00b\x00r\x00/\x002\x000\x001\x009\x00/\x001\x002\x00/\x001\x006\x00/\x001\x006\x001\x007\x003\x005\x001\x001\x005\x000\x009\x003\x002\x000\x00.\x00j\x00p\x00g\x00?\x00w\x00=\x002\x002\x000\x00&\x00h\x00=\x002\x002\x000' @ 664 : 1
+2020/09/09-20:25:08.996 754 Compacting 1@1 + 1@2 files
+2020/09/09-20:25:09.001 754 Generated table #9@1: 97 keys, 6462 bytes
+2020/09/09-20:25:09.001 754 Compacted 1@1 + 1@2 files => 6462 bytes
+2020/09/09-20:25:09.006 754 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/09/09-20:25:09.006 754 Delete type=2 #8
+2020/09/09-20:25:09.006 754 Delete type=2 #5
+2020/09/09-20:25:09.007 754 Manual compaction at level-1 from '\x00\x01\x01 \x03\x00p\x15\xfeRGwB\x00\x01H\x00i\x00m\x00a\x00g\x00e\x00s\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00i\x00m\x00g\x00.\x00i\x00b\x00x\x00k\x00.\x00c\x00o\x00m\x00.\x00b\x00r\x00/\x002\x000\x001\x009\x00/\x001\x002\x00/\x001\x006\x00/\x001\x006\x001\x007\x003\x005\x001\x001\x005\x000\x009\x003\x002\x000\x00.\x00j\x00p\x00g\x00?\x00w\x00=\x002\x002\x000\x00&\x00h\x00=\x002\x002\x000' @ 664 : 1 .. (end); will stop at (end)

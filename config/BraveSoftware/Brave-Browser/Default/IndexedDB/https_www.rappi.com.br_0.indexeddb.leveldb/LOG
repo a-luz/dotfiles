@@ -1,0 +1,15 @@
+2020/09/29-01:57:19.797 b9b8 Reusing MANIFEST /home/arthur/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.rappi.com.br_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/29-01:57:19.797 b9b8 Recovering log #14
+2020/09/29-01:57:19.797 b9b8 Reusing old log /home/arthur/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.rappi.com.br_0.indexeddb.leveldb/000014.log 
+2020/09/29-01:58:51.339 3265 Level-0 table #18: started
+2020/09/29-01:58:51.343 3265 Level-0 table #18: 190 bytes OK
+2020/09/29-01:58:51.347 3265 Delete type=0 #14
+2020/09/29-01:58:51.347 3265 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/09/29-01:58:51.347 3265 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 380 : 1
+2020/09/29-01:58:51.347 3265 Compacting 1@1 + 1@2 files
+2020/09/29-01:58:51.351 3265 Generated table #19@1: 42 keys, 2878 bytes
+2020/09/29-01:58:51.351 3265 Compacted 1@1 + 1@2 files => 2878 bytes
+2020/09/29-01:58:51.355 3265 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/09/29-01:58:51.355 3265 Delete type=2 #9
+2020/09/29-01:58:51.355 3265 Delete type=2 #18
+2020/09/29-01:58:51.355 3265 Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 380 : 1 .. (end); will stop at (end)

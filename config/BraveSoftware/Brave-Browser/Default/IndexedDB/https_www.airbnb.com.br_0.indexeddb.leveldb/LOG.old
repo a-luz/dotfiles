@@ -1,0 +1,8 @@
+2020/10/01-16:03:15.443 4834 Reusing MANIFEST /home/arthur/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.airbnb.com.br_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/01-16:03:15.444 4834 Recovering log #23
+2020/10/01-16:03:15.444 4834 Reusing old log /home/arthur/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.airbnb.com.br_0.indexeddb.leveldb/000023.log 
+2020/10/01-16:06:31.108 3ffa Level-0 table #28: started
+2020/10/01-16:06:31.108 3ffa Level-0 table #28: 0 bytes OK
+2020/10/01-16:06:31.150 3ffa Delete type=0 #23
+2020/10/01-16:06:31.150 3ffa Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/10/01-16:06:31.150 3ffa Manual compaction at level-1 from (begin) .. (end); will stop at (end)

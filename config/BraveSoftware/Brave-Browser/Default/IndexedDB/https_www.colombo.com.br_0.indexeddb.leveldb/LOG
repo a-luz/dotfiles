@@ -1,0 +1,5 @@
+2020/09/11-23:01:36.780 cea Reusing MANIFEST /home/arthur/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.colombo.com.br_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/11-23:02:31.817 68a Level-0 table #5: started
+2020/09/11-23:02:31.827 68a Level-0 table #5: 3468 bytes OK
+2020/09/11-23:02:31.832 68a Delete type=0 #3
+2020/09/11-23:02:31.833 68a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

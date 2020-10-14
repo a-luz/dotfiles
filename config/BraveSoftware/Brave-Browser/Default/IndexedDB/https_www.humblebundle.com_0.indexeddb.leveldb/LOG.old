@@ -1,0 +1,15 @@
+2020/10/06-23:23:21.616 dfea Reusing MANIFEST /home/arthur/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.humblebundle.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/06-23:23:21.616 dfea Recovering log #4
+2020/10/06-23:23:21.616 dfea Reusing old log /home/arthur/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.humblebundle.com_0.indexeddb.leveldb/000004.log 
+2020/10/06-23:23:57.819 b7b Level-0 table #8: started
+2020/10/06-23:23:57.828 b7b Level-0 table #8: 704 bytes OK
+2020/10/06-23:23:57.832 b7b Delete type=0 #4
+2020/10/06-23:23:57.832 b7b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/10/06-23:23:57.832 b7b Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x0d\x00_\x00_\x00s\x00a\x00k\x003\x000\x002\x009\x007\x008\x004\x005' @ 64 : 1
+2020/10/06-23:23:57.832 b7b Compacting 1@1 + 1@2 files
+2020/10/06-23:23:57.835 b7b Generated table #9@1: 18 keys, 554 bytes
+2020/10/06-23:23:57.835 b7b Compacted 1@1 + 1@2 files => 554 bytes
+2020/10/06-23:23:57.839 b7b compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/10/06-23:23:57.839 b7b Delete type=2 #8
+2020/10/06-23:23:57.839 b7b Delete type=2 #5
+2020/10/06-23:23:57.839 b7b Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x0d\x00_\x00_\x00s\x00a\x00k\x003\x000\x002\x009\x007\x008\x004\x005' @ 64 : 1 .. (end); will stop at (end)

@@ -1,0 +1,60 @@
+2020/10/02-18:32:55.901 5ab4 Reusing MANIFEST /home/arthur/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/02-18:32:55.901 5ab4 Recovering log #101
+2020/10/02-18:32:55.901 5ab4 Reusing old log /home/arthur/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/000101.log 
+2020/10/02-19:15:40.342 122a Level-0 table #106: started
+2020/10/02-19:15:40.380 122a Level-0 table #106: 2308133 bytes OK
+2020/10/02-19:15:40.386 122a Delete type=0 #101
+2020/10/02-19:20:00.533 122a Compacting 1@1 + 1@2 files
+2020/10/02-19:20:00.541 122a Generated table #107@1: 67 keys, 22239 bytes
+2020/10/02-19:20:00.541 122a Compacted 1@1 + 1@2 files => 22239 bytes
+2020/10/02-19:20:00.544 122a compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/10/02-19:20:00.544 122a Delete type=2 #106
+2020/10/02-19:20:00.544 122a Delete type=2 #103
+2020/10/02-20:06:47.510 122a Level-0 table #109: started
+2020/10/02-20:06:47.554 122a Level-0 table #109: 2239132 bytes OK
+2020/10/02-20:06:47.559 122a Delete type=0 #105
+2020/10/02-20:12:31.680 122a Compacting 1@1 + 1@2 files
+2020/10/02-20:12:31.701 122a Generated table #110@1: 67 keys, 22004 bytes
+2020/10/02-20:12:31.701 122a Compacted 1@1 + 1@2 files => 22004 bytes
+2020/10/02-20:12:31.706 122a compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/10/02-20:12:31.707 122a Delete type=2 #109
+2020/10/02-20:12:31.707 122a Delete type=2 #107
+2020/10/02-20:56:57.831 122a Level-0 table #112: started
+2020/10/02-20:56:57.910 122a Level-0 table #112: 2272280 bytes OK
+2020/10/02-20:56:57.918 122a Delete type=0 #108
+2020/10/02-21:00:57.298 122a Compacting 1@1 + 1@2 files
+2020/10/02-21:00:57.340 122a Generated table #113@1: 64 keys, 20716 bytes
+2020/10/02-21:00:57.340 122a Compacted 1@1 + 1@2 files => 20716 bytes
+2020/10/02-21:00:57.344 122a compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/10/02-21:47:14.642 122a Level-0 table #115: started
+2020/10/02-21:47:14.666 122a Level-0 table #115: 2292094 bytes OK
+2020/10/02-21:47:14.672 122a Delete type=0 #111
+2020/10/02-21:47:14.672 122a Delete type=2 #110
+2020/10/02-21:47:14.672 122a Delete type=2 #112
+2020/10/02-21:50:38.432 122a Compacting 1@1 + 1@2 files
+2020/10/02-21:50:38.474 122a Generated table #116@1: 67 keys, 26292 bytes
+2020/10/02-21:50:38.474 122a Compacted 1@1 + 1@2 files => 26292 bytes
+2020/10/02-21:50:38.478 122a compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/10/02-22:38:53.831 122a Level-0 table #118: started
+2020/10/02-22:38:53.854 122a Level-0 table #118: 2226532 bytes OK
+2020/10/02-22:38:53.860 122a Delete type=2 #113
+2020/10/02-22:38:53.860 122a Delete type=0 #114
+2020/10/02-22:38:53.860 122a Delete type=2 #115
+2020/10/02-22:43:41.537 122a Compacting 1@1 + 1@2 files
+2020/10/02-22:43:41.558 122a Generated table #119@1: 67 keys, 26507 bytes
+2020/10/02-22:43:41.558 122a Compacted 1@1 + 1@2 files => 26507 bytes
+2020/10/02-22:43:41.563 122a compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/10/02-22:43:41.563 122a Delete type=2 #118
+2020/10/02-22:43:41.563 122a Delete type=2 #116
+2020/10/02-22:57:00.977 122a Level-0 table #121: started
+2020/10/02-22:57:01.008 122a Level-0 table #121: 898737 bytes OK
+2020/10/02-22:57:01.013 122a Delete type=0 #117
+2020/10/02-22:57:01.014 122a Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/10/02-22:57:01.015 122a Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01\x13\x00I\x00S\x00_\x00P\x00U\x00S\x00H\x00_\x00E\x00N\x00A\x00B\x00L\x00E\x00D\x00_\x00K\x00E\x00Y' @ 320360 : 1
+2020/10/02-22:57:01.015 122a Compacting 1@1 + 1@2 files
+2020/10/02-22:57:01.025 122a Generated table #122@1: 64 keys, 21811 bytes
+2020/10/02-22:57:01.025 122a Compacted 1@1 + 1@2 files => 21811 bytes
+2020/10/02-22:57:01.029 122a compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/10/02-22:57:01.030 122a Delete type=2 #121
+2020/10/02-22:57:01.030 122a Delete type=2 #119
+2020/10/02-22:57:01.030 122a Manual compaction at level-1 from '\x00\x02\x01\x02\x01\x13\x00I\x00S\x00_\x00P\x00U\x00S\x00H\x00_\x00E\x00N\x00A\x00B\x00L\x00E\x00D\x00_\x00K\x00E\x00Y' @ 320360 : 1 .. (end); will stop at (end)

@@ -1,0 +1,15 @@
+2020/10/03-03:10:00.730 9a4b Reusing MANIFEST /home/arthur/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.airbnb.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/03-03:10:00.730 9a4b Recovering log #52
+2020/10/03-03:10:00.730 9a4b Reusing old log /home/arthur/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.airbnb.com_0.indexeddb.leveldb/000052.log 
+2020/10/03-03:13:14.708 122a Level-0 table #57: started
+2020/10/03-03:13:14.712 122a Level-0 table #57: 190 bytes OK
+2020/10/03-03:13:14.717 122a Delete type=0 #52
+2020/10/03-03:13:14.717 122a Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/10/03-03:13:14.718 122a Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 1487 : 1
+2020/10/03-03:13:14.718 122a Compacting 1@1 + 1@2 files
+2020/10/03-03:13:14.725 122a Generated table #58@1: 88 keys, 43057 bytes
+2020/10/03-03:13:14.725 122a Compacted 1@1 + 1@2 files => 43057 bytes
+2020/10/03-03:13:14.732 122a compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/10/03-03:13:14.733 122a Delete type=2 #54
+2020/10/03-03:13:14.733 122a Delete type=2 #57
+2020/10/03-03:13:14.733 122a Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 1487 : 1 .. (end); will stop at (end)

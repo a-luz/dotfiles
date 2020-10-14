@@ -1,0 +1,5 @@
+2020/08/25-17:35:27.923 1161 Reusing MANIFEST /home/arthur/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_kyte.site_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/25-17:36:08.436 cfe Level-0 table #5: started
+2020/08/25-17:36:08.445 cfe Level-0 table #5: 2776 bytes OK
+2020/08/25-17:36:08.449 cfe Delete type=0 #3
+2020/08/25-17:36:08.449 cfe Manual compaction at level-0 from (begin) .. (end); will stop at (end)

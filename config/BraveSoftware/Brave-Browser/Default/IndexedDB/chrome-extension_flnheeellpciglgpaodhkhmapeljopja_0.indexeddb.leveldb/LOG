@@ -1,0 +1,15 @@
+2020/05/15-12:13:15.619 12565 Reusing MANIFEST /home/arthur/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/chrome-extension_flnheeellpciglgpaodhkhmapeljopja_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/15-12:13:15.620 12565 Recovering log #11
+2020/05/15-12:13:15.620 12565 Reusing old log /home/arthur/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/chrome-extension_flnheeellpciglgpaodhkhmapeljopja_0.indexeddb.leveldb/000011.log 
+2020/05/15-12:30:27.200 79a2 Level-0 table #16: started
+2020/05/15-12:30:27.204 79a2 Level-0 table #16: 443 bytes OK
+2020/05/15-12:30:27.214 79a2 Delete type=0 #11
+2020/05/15-12:30:27.214 79a2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/05/15-12:30:27.214 79a2 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01\x08\x00A\x00l\x00t\x00a\x00i\x00r\x00D\x00B' @ 142 : 1
+2020/05/15-12:30:27.214 79a2 Compacting 1@1 + 1@2 files
+2020/05/15-12:30:27.217 79a2 Generated table #17@1: 37 keys, 849 bytes
+2020/05/15-12:30:27.217 79a2 Compacted 1@1 + 1@2 files => 849 bytes
+2020/05/15-12:30:27.221 79a2 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/05/15-12:30:27.221 79a2 Delete type=2 #16
+2020/05/15-12:30:27.221 79a2 Delete type=2 #13
+2020/05/15-12:30:27.221 79a2 Manual compaction at level-1 from '\x00\x02\x01\x02\x01\x08\x00A\x00l\x00t\x00a\x00i\x00r\x00D\x00B' @ 142 : 1 .. (end); will stop at (end)

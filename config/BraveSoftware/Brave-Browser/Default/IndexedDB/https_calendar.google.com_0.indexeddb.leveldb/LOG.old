@@ -1,0 +1,8 @@
+2020/10/02-12:54:42.267 25d7 Reusing MANIFEST /home/arthur/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_calendar.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/02-12:54:42.267 25d7 Recovering log #33
+2020/10/02-12:54:42.267 25d7 Reusing old log /home/arthur/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_calendar.google.com_0.indexeddb.leveldb/000033.log 
+2020/10/02-12:54:59.097 122a Level-0 table #38: started
+2020/10/02-12:54:59.098 122a Level-0 table #38: 0 bytes OK
+2020/10/02-12:54:59.139 122a Delete type=0 #33
+2020/10/02-12:54:59.139 122a Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/10/02-12:54:59.140 122a Manual compaction at level-1 from (begin) .. (end); will stop at (end)

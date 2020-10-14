@@ -1,0 +1,28 @@
+{
+   "background": {
+      "scripts": [ "js/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "assets/img/altair_logo_128.png"
+   },
+   "content_security_policy": "script-src 'self' 'unsafe-inline' 'sha256-oPmnC5nXVn+02vhnLdwVkTp/s4vphtZzgjwEBldwPHs=' 'sha256-I9mRIuFvittlnAABX/bWvVih++ioTekeCFcwe4j3YTo=' https://cdn.jsdelivr.net; object-src 'self';",
+   "description": "A beautiful feature-rich GraphQL client for all platforms",
+   "differential_fingerprint": "1.f6f8a3ef8af26f66d1bf3088e214861daa17d700441157f8aa2e0d6e1236b98c",
+   "icons": {
+      "128": "assets/img/altair_logo_128.png",
+      "16": "assets/img/altair_logo_128.png",
+      "48": "assets/img/altair_logo_128.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqhw7/mmlj/KXO0HmRVrzEVgrg3NnGPWD8N1uiyMfUXidkzfwQ9H75+kvRck93EDOZM28jxEcnb2G+4RoEGstS91MtMqbfiD5dntZLNJ6k60cxtpqwBRwh7iOLNncn77d71rqXYoaneTooD8qKzvzOnyWd+jWbZ0ivDXVf8fFO5/vFW/15pvhZHAyNH3uTnpVs+NfZI4+FI73NKKYAcGYSuThqx6odOFs/mZ+Wa2bSo6gMRnUoCDb3Fo4LTiaqex/k+tfKm6rlsjBmJXXTdQShqpSrM/0Bm76Wgrx97TFMNWHksGhXbUjPAFzAtdXnWxHmz3jyTS5viO/lKoVOiXMdwIDAQAB",
+   "manifest_version": 2,
+   "name": "Altair GraphQL Client",
+   "offline_enabled": true,
+   "options_ui": {
+      "open_in_tab": false,
+      "page": "options.html"
+   },
+   "permissions": [ "http://*/", "https://*/", "tabs", "storage", "notifications" ],
+   "short_name": "Altair",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.5.1"
+}

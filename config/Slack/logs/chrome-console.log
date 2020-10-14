@@ -1,0 +1,240 @@
+[09/22/20, 18:15:39:902] info: 
+╔════════════════════════════════════════════════════════════════════════════╗
+║      Slack 4.9.1, linux 5.4.66-1-lts on x64 at 09/22/20, 18:15:39:902      ║
+╚════════════════════════════════════════════════════════════════════════════╝ 
+[09/22/20, 18:15:39:906] info: 
+╔════════════════════════════════════════════════════════════════════════════╗
+║      Slack 4.9.1, linux 5.4.66-1-lts on x64 at 09/22/20, 18:15:39:905      ║
+╚════════════════════════════════════════════════════════════════════════════╝ 
+[09/22/20, 18:15:39:903] info: Configured logger via 
+{
+  "identifierOverride": "chrome-console",
+  "logLevel": "info",
+  "numberOfInstances": 4
+}
+[09/22/20, 18:15:39:903] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.9.1",
+  "PACKAGE_MANIFEST.commit": "a4869bd",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[09/22/20, 18:15:39:906] info: Configured logger via 
+{
+  "identifierOverride": "chrome-console",
+  "logLevel": "info",
+  "numberOfInstances": 5
+}
+[09/22/20, 18:15:39:906] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.9.1",
+  "PACKAGE_MANIFEST.commit": "a4869bd",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[09/23/20, 11:57:13:709] info: 
+╔════════════════════════════════════════════════════════════════════════════╗
+║      Slack 4.9.1, linux 5.4.66-1-lts on x64 at 09/23/20, 11:57:13:708      ║
+╚════════════════════════════════════════════════════════════════════════════╝ 
+[09/23/20, 11:57:13:713] info: 
+╔════════════════════════════════════════════════════════════════════════════╗
+║      Slack 4.9.1, linux 5.4.66-1-lts on x64 at 09/23/20, 11:57:13:713      ║
+╚════════════════════════════════════════════════════════════════════════════╝ 
+[09/23/20, 11:57:13:709] info: Configured logger via 
+{
+  "identifierOverride": "chrome-console",
+  "logLevel": "info",
+  "numberOfInstances": 7
+}
+[09/23/20, 11:57:13:709] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.9.1",
+  "PACKAGE_MANIFEST.commit": "a4869bd",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[09/23/20, 11:57:13:713] info: Configured logger via 
+{
+  "identifierOverride": "chrome-console",
+  "logLevel": "info",
+  "numberOfInstances": 8
+}
+[09/23/20, 11:57:13:713] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.9.1",
+  "PACKAGE_MANIFEST.commit": "a4869bd",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[10/05/20, 13:05:15:053] info: 
+╔════════════════════════════════════════════════════════════════════════════╗
+║      Slack 4.9.1, linux 5.4.69-1-lts on x64 at 10/05/20, 13:05:15:053      ║
+╚════════════════════════════════════════════════════════════════════════════╝ 
+[10/05/20, 13:05:15:055] info: 
+╔════════════════════════════════════════════════════════════════════════════╗
+║      Slack 4.9.1, linux 5.4.69-1-lts on x64 at 10/05/20, 13:05:15:055      ║
+╚════════════════════════════════════════════════════════════════════════════╝ 
+[10/05/20, 13:05:15:053] info: Configured logger via 
+{
+  "identifierOverride": "chrome-console",
+  "logLevel": "info",
+  "numberOfInstances": 4
+}
+[10/05/20, 13:05:15:054] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.9.1",
+  "PACKAGE_MANIFEST.commit": "a4869bd",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[10/05/20, 13:05:15:056] info: Configured logger via 
+{
+  "identifierOverride": "chrome-console",
+  "logLevel": "info",
+  "numberOfInstances": 5
+}
+[10/05/20, 13:05:15:056] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.9.1",
+  "PACKAGE_MANIFEST.commit": "a4869bd",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[10/13/20, 14:00:34:170] info: 
+╔════════════════════════════════════════════════════════════════════════════╗
+║      Slack 4.9.1, linux 5.4.69-1-lts on x64 at 10/13/20, 14:00:34:170      ║
+╚════════════════════════════════════════════════════════════════════════════╝ 
+[10/13/20, 14:00:34:172] info: 
+╔════════════════════════════════════════════════════════════════════════════╗
+║      Slack 4.9.1, linux 5.4.69-1-lts on x64 at 10/13/20, 14:00:34:172      ║
+╚════════════════════════════════════════════════════════════════════════════╝ 
+[10/13/20, 14:00:34:170] info: Configured logger via 
+{
+  "identifierOverride": "chrome-console",
+  "logLevel": "info",
+  "numberOfInstances": 7
+}
+[10/13/20, 14:00:34:170] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.9.1",
+  "PACKAGE_MANIFEST.commit": "a4869bd",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[10/13/20, 14:00:34:172] info: Configured logger via 
+{
+  "identifierOverride": "chrome-console",
+  "logLevel": "info",
+  "numberOfInstances": 8
+}
+[10/13/20, 14:00:34:173] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.9.1",
+  "PACKAGE_MANIFEST.commit": "a4869bd",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[10/13/20, 14:00:38:224] info: 
+╔════════════════════════════════════════════════════════════════════════════╗
+║      Slack 4.9.1, linux 5.4.69-1-lts on x64 at 10/13/20, 14:00:38:224      ║
+╚════════════════════════════════════════════════════════════════════════════╝ 
+[10/13/20, 14:00:38:227] info: 
+╔════════════════════════════════════════════════════════════════════════════╗
+║      Slack 4.9.1, linux 5.4.69-1-lts on x64 at 10/13/20, 14:00:38:227      ║
+╚════════════════════════════════════════════════════════════════════════════╝ 
+[10/13/20, 14:00:38:224] info: Configured logger via 
+{
+  "identifierOverride": "chrome-console",
+  "logLevel": "info",
+  "numberOfInstances": 9
+}
+[10/13/20, 14:00:38:224] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.9.1",
+  "PACKAGE_MANIFEST.commit": "a4869bd",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[10/13/20, 14:00:38:228] info: Configured logger via 
+{
+  "identifierOverride": "chrome-console",
+  "logLevel": "info",
+  "numberOfInstances": 10
+}
+[10/13/20, 14:00:38:228] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.9.1",
+  "PACKAGE_MANIFEST.commit": "a4869bd",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[10/13/20, 14:00:39:221] info: 
+╔════════════════════════════════════════════════════════════════════════════╗
+║      Slack 4.9.1, linux 5.4.69-1-lts on x64 at 10/13/20, 14:00:39:220      ║
+╚════════════════════════════════════════════════════════════════════════════╝ 
+[10/13/20, 14:00:39:224] info: 
+╔════════════════════════════════════════════════════════════════════════════╗
+║      Slack 4.9.1, linux 5.4.69-1-lts on x64 at 10/13/20, 14:00:39:224      ║
+╚════════════════════════════════════════════════════════════════════════════╝ 
+[10/13/20, 14:00:39:221] info: Configured logger via 
+{
+  "identifierOverride": "chrome-console",
+  "logLevel": "info",
+  "numberOfInstances": 11
+}
+[10/13/20, 14:00:39:221] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.9.1",
+  "PACKAGE_MANIFEST.commit": "a4869bd",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[10/13/20, 14:00:39:224] info: Configured logger via 
+{
+  "identifierOverride": "chrome-console",
+  "logLevel": "info",
+  "numberOfInstances": 12
+}
+[10/13/20, 14:00:39:224] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.9.1",
+  "PACKAGE_MANIFEST.commit": "a4869bd",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}

@@ -1,0 +1,5 @@
+2020/09/03-18:35:04.429 e0a1 Reusing MANIFEST /home/arthur/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.goal.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/03-18:35:54.018 3ada Level-0 table #5: started
+2020/09/03-18:35:54.022 3ada Level-0 table #5: 2214 bytes OK
+2020/09/03-18:35:54.027 3ada Delete type=0 #3
+2020/09/03-18:35:54.027 3ada Manual compaction at level-0 from (begin) .. (end); will stop at (end)

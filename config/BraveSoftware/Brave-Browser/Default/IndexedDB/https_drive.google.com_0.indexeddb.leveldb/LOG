@@ -1,0 +1,984 @@
+2020/04/30-10:44:43.012 206d0 Reusing MANIFEST /home/arthur/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/04/30-10:45:59.755 1fa2f Level-0 table #5: started
+2020/04/30-10:45:59.780 1fa2f Level-0 table #5: 4476508 bytes OK
+2020/04/30-10:45:59.781 204cc Current memtable full; waiting...
+2020/04/30-10:45:59.785 1fa2f Delete type=0 #3
+2020/04/30-10:45:59.786 1fa2f Level-0 table #7: started
+2020/04/30-10:45:59.804 1fa2f Level-0 table #7: 4500205 bytes OK
+2020/04/30-10:45:59.808 1fa2f Delete type=0 #4
+2020/04/30-10:45:59.812 1fa2f Level-0 table #9: started
+2020/04/30-10:45:59.833 1fa2f Level-0 table #9: 4455804 bytes OK
+2020/04/30-10:45:59.837 1fa2f Delete type=0 #6
+2020/04/30-10:46:02.406 1fa2f Level-0 table #11: started
+2020/04/30-10:46:02.418 204cc Current memtable full; waiting...
+2020/04/30-10:46:02.422 1fa2f Level-0 table #11: 5133826 bytes OK
+2020/04/30-10:46:02.426 1fa2f Delete type=0 #8
+2020/04/30-10:46:02.427 1fa2f Level-0 table #13: started
+2020/04/30-10:46:02.444 1fa2f Level-0 table #13: 4546553 bytes OK
+2020/04/30-10:46:02.449 1fa2f Delete type=0 #10
+2020/04/30-10:46:02.454 1fa2f Level-0 table #15: started
+2020/04/30-10:46:02.467 204cc Current memtable full; waiting...
+2020/04/30-10:46:02.470 1fa2f Level-0 table #15: 4453567 bytes OK
+2020/04/30-10:46:02.474 1fa2f Delete type=0 #12
+2020/04/30-10:46:02.477 1fa2f Compacting 4@0 + 1@1 files
+2020/04/30-10:46:02.480 1fa2f Level-0 table #17: started
+2020/04/30-10:46:02.495 204cc Current memtable full; waiting...
+2020/04/30-10:46:02.498 1fa2f Level-0 table #17: 4505718 bytes OK
+2020/04/30-10:46:02.503 1fa2f Delete type=0 #14
+2020/04/30-10:46:02.504 1fa2f Level-0 table #20: started
+2020/04/30-10:46:02.514 204cc Current memtable full; waiting...
+2020/04/30-10:46:02.518 1fa2f Level-0 table #20: 4475151 bytes OK
+2020/04/30-10:46:02.522 1fa2f Delete type=0 #16
+2020/04/30-10:46:02.523 1fa2f Level-0 table #22: started
+2020/04/30-10:46:02.537 1fa2f Level-0 table #22: 4434398 bytes OK
+2020/04/30-10:46:02.541 1fa2f Delete type=0 #19
+2020/04/30-10:46:02.563 1fa2f Generated table #18@0: 99 keys, 2228221 bytes
+2020/04/30-10:46:02.574 1fa2f Generated table #23@0: 12 keys, 2273483 bytes
+2020/04/30-10:46:02.595 1fa2f Generated table #24@0: 16 keys, 2515737 bytes
+2020/04/30-10:46:02.607 1fa2f Generated table #25@0: 4 keys, 2256872 bytes
+2020/04/30-10:46:02.619 1fa2f Generated table #26@0: 4 keys, 2253989 bytes
+2020/04/30-10:46:02.630 1fa2f Generated table #27@0: 4 keys, 2251865 bytes
+2020/04/30-10:46:02.646 1fa2f Generated table #28@0: 4 keys, 2240277 bytes
+2020/04/30-10:46:02.668 1fa2f Generated table #29@0: 4 keys, 2223168 bytes
+2020/04/30-10:46:02.682 1fa2f Generated table #30@0: 32 keys, 1792520 bytes
+2020/04/30-10:46:02.682 1fa2f Compacted 4@0 + 1@1 files => 20036132 bytes
+2020/04/30-10:46:02.687 1fa2f compacted to: files[ 3 9 1 0 0 0 0 ]
+2020/04/30-10:46:02.687 1fa2f Delete type=2 #15
+2020/04/30-10:46:02.687 1fa2f Delete type=2 #7
+2020/04/30-10:46:02.687 1fa2f Delete type=2 #9
+2020/04/30-10:46:02.687 1fa2f Delete type=2 #13
+2020/04/30-10:46:02.687 1fa2f Delete type=2 #11
+2020/04/30-10:46:02.691 1fa2f Expanding@1 1+1 (2228221+4476508 bytes) to 9+1 (20036132+4476508 bytes)
+2020/04/30-10:46:02.691 1fa2f Compacting 9@1 + 1@2 files
+2020/04/30-10:46:02.704 1fa2f Generated table #31@1: 15 keys, 2226995 bytes
+2020/04/30-10:46:02.718 1fa2f Generated table #32@1: 12 keys, 2273483 bytes
+2020/04/30-10:46:02.734 1fa2f Generated table #33@1: 64 keys, 2574667 bytes
+2020/04/30-10:46:02.749 1fa2f Generated table #34@1: 4 keys, 2256872 bytes
+2020/04/30-10:46:02.763 1fa2f Generated table #35@1: 4 keys, 2253989 bytes
+2020/04/30-10:46:02.776 1fa2f Generated table #36@1: 4 keys, 2251865 bytes
+2020/04/30-10:46:02.788 1fa2f Generated table #37@1: 4 keys, 2240277 bytes
+2020/04/30-10:46:02.801 1fa2f Generated table #38@1: 4 keys, 2223168 bytes
+2020/04/30-10:46:02.812 1fa2f Generated table #39@1: 38 keys, 1794657 bytes
+2020/04/30-10:46:02.812 1fa2f Compacted 9@1 + 1@2 files => 20095973 bytes
+2020/04/30-10:46:02.819 1fa2f compacted to: files[ 3 0 9 0 0 0 0 ]
+2020/04/30-10:46:02.820 1fa2f Delete type=2 #29
+2020/04/30-10:46:02.820 1fa2f Delete type=2 #27
+2020/04/30-10:46:02.820 1fa2f Delete type=2 #25
+2020/04/30-10:46:02.820 1fa2f Delete type=2 #24
+2020/04/30-10:46:02.820 1fa2f Delete type=2 #28
+2020/04/30-10:46:02.820 1fa2f Delete type=2 #5
+2020/04/30-10:46:02.820 1fa2f Delete type=2 #18
+2020/04/30-10:46:02.820 1fa2f Delete type=2 #23
+2020/04/30-10:46:02.820 1fa2f Delete type=2 #30
+2020/04/30-10:46:02.820 1fa2f Delete type=2 #26
+2020/04/30-10:46:19.193 1fa2f Level-0 table #41: started
+2020/04/30-10:46:19.208 204cc Current memtable full; waiting...
+2020/04/30-10:46:19.212 1fa2f Level-0 table #41: 4251975 bytes OK
+2020/04/30-10:46:19.217 1fa2f Delete type=0 #21
+2020/04/30-10:46:19.218 1fa2f Compacting 4@0 + 0@1 files
+2020/04/30-10:46:19.221 1fa2f Level-0 table #43: started
+2020/04/30-10:46:19.247 1fa2f Level-0 table #43: 4526406 bytes OK
+2020/04/30-10:46:19.251 1fa2f Delete type=0 #40
+2020/04/30-10:46:19.258 1fa2f Level-0 table #46: started
+2020/04/30-10:46:19.268 204cc Current memtable full; waiting...
+2020/04/30-10:46:19.272 1fa2f Level-0 table #46: 4481981 bytes OK
+2020/04/30-10:46:19.276 1fa2f Delete type=0 #42
+2020/04/30-10:46:19.277 1fa2f Level-0 table #48: started
+2020/04/30-10:46:19.287 204cc Current memtable full; waiting...
+2020/04/30-10:46:19.291 1fa2f Level-0 table #48: 4515719 bytes OK
+2020/04/30-10:46:19.295 1fa2f Delete type=0 #45
+2020/04/30-10:46:19.296 1fa2f Level-0 table #50: started
+2020/04/30-10:46:19.306 204cc Current memtable full; waiting...
+2020/04/30-10:46:19.314 1fa2f Level-0 table #50: 4475074 bytes OK
+2020/04/30-10:46:19.318 1fa2f Delete type=0 #47
+2020/04/30-10:46:19.327 1fa2f Generated table #44@0: 119 keys, 2575349 bytes
+2020/04/30-10:46:19.327 1fa2f Level-0 table #52: started
+2020/04/30-10:46:19.342 1fa2f Level-0 table #52: 4433822 bytes OK
+2020/04/30-10:46:19.346 1fa2f Delete type=0 #49
+2020/04/30-10:46:19.358 1fa2f Generated table #53@0: 4 keys, 2252525 bytes
+2020/04/30-10:46:19.368 1fa2f Generated table #54@0: 4 keys, 2237243 bytes
+2020/04/30-10:46:19.378 1fa2f Generated table #55@0: 4 keys, 2216866 bytes
+2020/04/30-10:46:19.384 1fa2f Generated table #56@0: 27 keys, 685302 bytes
+2020/04/30-10:46:19.384 1fa2f Compacted 4@0 + 0@1 files => 9967285 bytes
+2020/04/30-10:46:19.388 1fa2f compacted to: files[ 5 5 9 0 0 0 0 ]
+2020/04/30-10:46:19.388 1fa2f Delete type=2 #20
+2020/04/30-10:46:19.388 1fa2f Delete type=2 #22
+2020/04/30-10:46:19.388 1fa2f Delete type=2 #17
+2020/04/30-10:46:19.388 1fa2f Delete type=2 #41
+2020/04/30-10:46:19.390 1fa2f Compacting 5@0 + 5@1 files
+2020/04/30-10:46:19.402 1fa2f Generated table #57@0: 115 keys, 2218622 bytes
+2020/04/30-10:46:19.412 1fa2f Generated table #58@0: 12 keys, 2237743 bytes
+2020/04/30-10:46:19.422 1fa2f Generated table #59@0: 12 keys, 2258065 bytes
+2020/04/30-10:46:19.433 1fa2f Generated table #60@0: 12 keys, 2241199 bytes
+2020/04/30-10:46:19.443 1fa2f Generated table #61@0: 12 keys, 2263407 bytes
+2020/04/30-10:46:19.454 1fa2f Generated table #62@0: 16 keys, 2573849 bytes
+2020/04/30-10:46:19.464 1fa2f Generated table #63@0: 4 keys, 2262868 bytes
+2020/04/30-10:46:19.474 1fa2f Generated table #64@0: 4 keys, 2240656 bytes
+2020/04/30-10:46:19.485 1fa2f Generated table #65@0: 4 keys, 2257522 bytes
+2020/04/30-10:46:19.496 1fa2f Generated table #66@0: 4 keys, 2237204 bytes
+2020/04/30-10:46:19.507 1fa2f Generated table #67@0: 4 keys, 2216572 bytes
+2020/04/30-10:46:19.516 1fa2f Generated table #68@0: 37 keys, 1240497 bytes
+2020/04/30-10:46:19.516 1fa2f Compacted 5@0 + 5@1 files => 26248204 bytes
+2020/04/30-10:46:19.520 1fa2f compacted to: files[ 0 12 9 0 0 0 0 ]
+2020/04/30-10:46:19.521 1fa2f Delete type=2 #54
+2020/04/30-10:46:19.521 1fa2f Delete type=2 #53
+2020/04/30-10:46:19.521 1fa2f Delete type=2 #43
+2020/04/30-10:46:19.521 1fa2f Delete type=2 #48
+2020/04/30-10:46:19.521 1fa2f Delete type=2 #56
+2020/04/30-10:46:19.521 1fa2f Delete type=2 #55
+2020/04/30-10:46:19.521 1fa2f Delete type=2 #44
+2020/04/30-10:46:19.521 1fa2f Delete type=2 #52
+2020/04/30-10:46:19.521 1fa2f Delete type=2 #46
+2020/04/30-10:46:19.521 1fa2f Delete type=2 #50
+2020/04/30-10:46:19.533 1fa2f Compacting 1@1 + 1@2 files
+2020/04/30-10:46:19.554 1fa2f Generated table #69@1: 38 keys, 1793074 bytes
+2020/04/30-10:46:19.554 1fa2f Compacted 1@1 + 1@2 files => 1793074 bytes
+2020/04/30-10:46:19.558 1fa2f compacted to: files[ 0 11 9 0 0 0 0 ]
+2020/04/30-10:46:19.558 1fa2f Delete type=2 #39
+2020/04/30-10:46:19.558 1fa2f Delete type=2 #68
+2020/04/30-10:46:19.559 1fa2f Compacting 1@1 + 3@2 files
+2020/04/30-10:46:19.580 1fa2f Generated table #70@1: 15 keys, 2217123 bytes
+2020/04/30-10:46:19.588 1fa2f Generated table #71@1: 54 keys, 875858 bytes
+2020/04/30-10:46:19.588 1fa2f Compacted 1@1 + 3@2 files => 3092981 bytes
+2020/04/30-10:46:19.595 1fa2f compacted to: files[ 0 10 8 0 0 0 0 ]
+2020/04/30-10:46:19.596 1fa2f Delete type=2 #33
+2020/04/30-10:46:19.596 1fa2f Delete type=2 #31
+2020/04/30-10:46:19.596 1fa2f Delete type=2 #57
+2020/04/30-10:46:19.596 1fa2f Delete type=2 #32
+2020/04/30-10:46:19.604 1fa2f Moved #58 to level-2 2237743 bytes OK: files[ 0 9 9 0 0 0 0 ]
+2020/04/30-10:46:19.608 1fa2f Moved #59 to level-2 2258065 bytes OK: files[ 0 8 10 0 0 0 0 ]
+2020/04/30-10:46:19.612 1fa2f Moved #60 to level-2 2241199 bytes OK: files[ 0 7 11 0 0 0 0 ]
+2020/04/30-10:46:19.617 1fa2f Moved #61 to level-2 2263407 bytes OK: files[ 0 6 12 0 0 0 0 ]
+2020/04/30-10:46:19.617 1fa2f Compacting 1@1 + 2@2 files
+2020/04/30-10:46:19.650 1fa2f Generated table #72@1: 62 keys, 2574879 bytes
+2020/04/30-10:46:19.671 1fa2f Generated table #73@1: 3 keys, 1692958 bytes
+2020/04/30-10:46:19.671 1fa2f Compacted 1@1 + 2@2 files => 4267837 bytes
+2020/04/30-10:46:19.675 1fa2f compacted to: files[ 0 5 12 0 0 0 0 ]
+2020/04/30-10:46:19.676 1fa2f Delete type=2 #71
+2020/04/30-10:46:19.676 1fa2f Delete type=2 #34
+2020/04/30-10:46:19.676 1fa2f Delete type=2 #62
+2020/04/30-10:46:19.678 1fa2f Compacting 1@1 + 2@2 files
+2020/04/30-10:46:19.701 1fa2f Generated table #74@1: 4 keys, 2262868 bytes
+2020/04/30-10:46:19.712 1fa2f Generated table #75@1: 3 keys, 1684079 bytes
+2020/04/30-10:46:19.712 1fa2f Compacted 1@1 + 2@2 files => 3946947 bytes
+2020/04/30-10:46:19.716 1fa2f compacted to: files[ 0 4 12 0 0 0 0 ]
+2020/04/30-10:46:19.717 1fa2f Delete type=2 #73
+2020/04/30-10:46:19.717 1fa2f Delete type=2 #63
+2020/04/30-10:46:19.717 1fa2f Delete type=2 #35
+2020/04/30-10:46:38.236 1fa2f Level-0 table #77: started
+2020/04/30-10:46:38.254 206d0 Current memtable full; waiting...
+2020/04/30-10:46:38.255 1fa2f Level-0 table #77: 4233786 bytes OK
+2020/04/30-10:46:38.260 1fa2f Delete type=0 #51
+2020/04/30-10:46:38.261 1fa2f Level-0 table #79: started
+2020/04/30-10:46:38.271 206d0 Current memtable full; waiting...
+2020/04/30-10:46:38.273 1fa2f Level-0 table #79: 4514421 bytes OK
+2020/04/30-10:46:38.278 1fa2f Delete type=0 #76
+2020/04/30-10:46:38.279 1fa2f Level-0 table #81: started
+2020/04/30-10:46:38.292 1fa2f Level-0 table #81: 4508649 bytes OK
+2020/04/30-10:46:38.296 1fa2f Delete type=0 #78
+2020/04/30-10:46:38.298 1fa2f Level-0 table #83: started
+2020/04/30-10:46:38.308 206d0 Current memtable full; waiting...
+2020/04/30-10:46:38.311 1fa2f Level-0 table #83: 4504403 bytes OK
+2020/04/30-10:46:38.316 1fa2f Delete type=0 #80
+2020/04/30-10:46:38.316 1fa2f Compacting 4@0 + 4@1 files
+2020/04/30-10:46:38.317 1fa2f Level-0 table #85: started
+2020/04/30-10:46:38.326 206d0 Current memtable full; waiting...
+2020/04/30-10:46:38.330 1fa2f Level-0 table #85: 4481230 bytes OK
+2020/04/30-10:46:38.335 1fa2f Delete type=0 #82
+2020/04/30-10:46:38.337 1fa2f Level-0 table #88: started
+2020/04/30-10:46:38.371 1fa2f Level-0 table #88: 4447005 bytes OK
+2020/04/30-10:46:38.378 1fa2f Delete type=0 #84
+2020/04/30-10:46:38.391 1fa2f Generated table #86@0: 115 keys, 2253908 bytes
+2020/04/30-10:46:38.413 1fa2f Generated table #89@0: 12 keys, 2254531 bytes
+2020/04/30-10:46:38.428 1fa2f Generated table #90@0: 12 keys, 2257415 bytes
+2020/04/30-10:46:38.446 1fa2f Generated table #91@0: 14 keys, 2573955 bytes
+2020/04/30-10:46:38.462 1fa2f Generated table #92@0: 4 keys, 2272947 bytes
+2020/04/30-10:46:38.479 1fa2f Generated table #93@0: 4 keys, 2226453 bytes
+2020/04/30-10:46:38.492 1fa2f Generated table #94@0: 4 keys, 2252528 bytes
+2020/04/30-10:46:38.502 1fa2f Generated table #95@0: 2 keys, 1123262 bytes
+2020/04/30-10:46:38.512 1fa2f Generated table #96@0: 4 keys, 2223167 bytes
+2020/04/30-10:46:38.530 1fa2f Generated table #97@0: 29 keys, 1793356 bytes
+2020/04/30-10:46:38.530 1fa2f Compacted 4@0 + 4@1 files => 21231522 bytes
+2020/04/30-10:46:38.534 1fa2f compacted to: files[ 2 10 12 0 0 0 0 ]
+2020/04/30-10:46:38.534 1fa2f Delete type=2 #67
+2020/04/30-10:46:38.534 1fa2f Delete type=2 #66
+2020/04/30-10:46:38.534 1fa2f Delete type=2 #79
+2020/04/30-10:46:38.534 1fa2f Delete type=2 #77
+2020/04/30-10:46:38.534 1fa2f Delete type=2 #81
+2020/04/30-10:46:38.534 1fa2f Delete type=2 #83
+2020/04/30-10:46:38.534 1fa2f Delete type=2 #65
+2020/04/30-10:46:38.534 1fa2f Delete type=2 #64
+2020/04/30-10:46:38.543 1fa2f Compacting 1@1 + 2@2 files
+2020/04/30-10:46:38.558 1fa2f Generated table #98@1: 4 keys, 2262872 bytes
+2020/04/30-10:46:38.567 1fa2f Generated table #99@1: 3 keys, 1684081 bytes
+2020/04/30-10:46:38.567 1fa2f Compacted 1@1 + 2@2 files => 3946953 bytes
+2020/04/30-10:46:38.574 1fa2f compacted to: files[ 2 9 12 0 0 0 0 ]
+2020/04/30-10:46:38.574 1fa2f Delete type=2 #75
+2020/04/30-10:46:38.574 1fa2f Delete type=2 #92
+2020/04/30-10:46:38.574 1fa2f Delete type=2 #74
+2020/04/30-10:46:38.575 1fa2f Compacting 1@1 + 2@2 files
+2020/04/30-10:46:38.585 1fa2f Generated table #100@1: 4 keys, 2240660 bytes
+2020/04/30-10:46:38.594 1fa2f Generated table #101@1: 3 keys, 1695288 bytes
+2020/04/30-10:46:38.594 1fa2f Compacted 1@1 + 2@2 files => 3935948 bytes
+2020/04/30-10:46:38.598 1fa2f compacted to: files[ 2 8 12 0 0 0 0 ]
+2020/04/30-10:46:38.598 1fa2f Delete type=2 #36
+2020/04/30-10:46:38.598 1fa2f Delete type=2 #99
+2020/04/30-10:46:38.598 1fa2f Delete type=2 #93
+2020/04/30-10:46:38.599 1fa2f Expanding@1 1+2 (2252528+3935565 bytes) to 2+2 (3375790+3935565 bytes)
+2020/04/30-10:46:38.599 1fa2f Compacting 2@1 + 2@2 files
+2020/04/30-10:46:38.611 1fa2f Generated table #102@1: 4 keys, 2257526 bytes
+2020/04/30-10:46:38.621 1fa2f Generated table #103@1: 3 keys, 1678036 bytes
+2020/04/30-10:46:38.621 1fa2f Compacted 2@1 + 2@2 files => 3935562 bytes
+2020/04/30-10:46:38.625 1fa2f compacted to: files[ 2 6 12 0 0 0 0 ]
+2020/04/30-10:46:38.625 1fa2f Delete type=2 #37
+2020/04/30-10:46:38.625 1fa2f Delete type=2 #94
+2020/04/30-10:46:38.625 1fa2f Delete type=2 #101
+2020/04/30-10:46:38.625 1fa2f Delete type=2 #95
+2020/04/30-10:46:38.626 1fa2f Compacting 1@1 + 1@2 files
+2020/04/30-10:46:38.637 1fa2f Generated table #104@1: 4 keys, 2223167 bytes
+2020/04/30-10:46:38.637 1fa2f Compacted 1@1 + 1@2 files => 2223167 bytes
+2020/04/30-10:46:38.641 1fa2f compacted to: files[ 2 5 12 0 0 0 0 ]
+2020/04/30-10:46:38.641 1fa2f Delete type=2 #38
+2020/04/30-10:46:38.641 1fa2f Delete type=2 #96
+2020/04/30-10:46:38.642 1fa2f Compacting 1@1 + 1@2 files
+2020/04/30-10:46:38.652 1fa2f Generated table #105@1: 38 keys, 1793444 bytes
+2020/04/30-10:46:38.652 1fa2f Compacted 1@1 + 1@2 files => 1793444 bytes
+2020/04/30-10:46:38.656 1fa2f compacted to: files[ 2 4 12 0 0 0 0 ]
+2020/04/30-10:46:38.656 1fa2f Delete type=2 #97
+2020/04/30-10:46:38.656 1fa2f Delete type=2 #69
+2020/04/30-10:46:59.216 1fa2f Level-0 table #107: started
+2020/04/30-10:46:59.229 1fa2f Level-0 table #107: 4199405 bytes OK
+2020/04/30-10:46:59.233 1fa2f Delete type=0 #87
+2020/04/30-10:46:59.826 1fa2f Level-0 table #109: started
+2020/04/30-10:46:59.836 20c61 Current memtable full; waiting...
+2020/04/30-10:46:59.844 1fa2f Level-0 table #109: 4517754 bytes OK
+2020/04/30-10:46:59.849 1fa2f Delete type=0 #106
+2020/04/30-10:46:59.850 1fa2f Compacting 4@0 + 4@1 files
+2020/04/30-10:46:59.851 1fa2f Level-0 table #111: started
+2020/04/30-10:46:59.864 1fa2f Level-0 table #111: 4550795 bytes OK
+2020/04/30-10:46:59.868 1fa2f Delete type=0 #108
+2020/04/30-10:46:59.868 1fa2f Level-0 table #114: started
+2020/04/30-10:46:59.878 20c61 Current memtable full; waiting...
+2020/04/30-10:46:59.881 1fa2f Level-0 table #114: 4463241 bytes OK
+2020/04/30-10:46:59.886 1fa2f Delete type=0 #110
+2020/04/30-10:46:59.887 1fa2f Level-0 table #116: started
+2020/04/30-10:46:59.896 20c61 Current memtable full; waiting...
+2020/04/30-10:46:59.900 1fa2f Level-0 table #116: 4494632 bytes OK
+2020/04/30-10:46:59.905 1fa2f Delete type=0 #112
+2020/04/30-10:46:59.906 1fa2f Level-0 table #118: started
+2020/04/30-10:46:59.916 20c61 Current memtable full; waiting...
+2020/04/30-10:46:59.919 1fa2f Level-0 table #118: 4464895 bytes OK
+2020/04/30-10:46:59.924 1fa2f Delete type=0 #115
+2020/04/30-10:46:59.928 1fa2f Level-0 table #120: started
+2020/04/30-10:46:59.955 1fa2f Level-0 table #120: 4447531 bytes OK
+2020/04/30-10:46:59.962 1fa2f Delete type=0 #117
+2020/04/30-10:46:59.980 1fa2f Generated table #113@0: 219 keys, 2262094 bytes
+2020/04/30-10:46:59.992 1fa2f Generated table #121@0: 12 keys, 2563944 bytes
+2020/04/30-10:47:00.002 1fa2f Generated table #122@0: 4 keys, 2240281 bytes
+2020/04/30-10:47:00.012 1fa2f Generated table #123@0: 4 keys, 2223171 bytes
+2020/04/30-10:47:00.020 1fa2f Generated table #124@0: 29 keys, 1793616 bytes
+2020/04/30-10:47:00.020 1fa2f Compacted 4@0 + 4@1 files => 11083106 bytes
+2020/04/30-10:47:00.025 1fa2f compacted to: files[ 5 5 12 0 0 0 0 ]
+2020/04/30-10:47:00.025 1fa2f Delete type=2 #85
+2020/04/30-10:47:00.025 1fa2f Delete type=2 #91
+2020/04/30-10:47:00.025 1fa2f Delete type=2 #89
+2020/04/30-10:47:00.025 1fa2f Delete type=2 #86
+2020/04/30-10:47:00.025 1fa2f Delete type=2 #90
+2020/04/30-10:47:00.025 1fa2f Delete type=2 #88
+2020/04/30-10:47:00.025 1fa2f Delete type=2 #109
+2020/04/30-10:47:00.025 1fa2f Delete type=2 #107
+2020/04/30-10:47:00.028 1fa2f Compacting 5@0 + 5@1 files
+2020/04/30-10:47:00.039 1fa2f Generated table #125@0: 219 keys, 2226914 bytes
+2020/04/30-10:47:00.049 1fa2f Generated table #126@0: 12 keys, 2232654 bytes
+2020/04/30-10:47:00.064 1fa2f Generated table #127@0: 12 keys, 2247520 bytes
+2020/04/30-10:47:00.074 1fa2f Generated table #128@0: 12 keys, 2231824 bytes
+2020/04/30-10:47:00.084 1fa2f Generated table #129@0: 12 keys, 2275601 bytes
+2020/04/30-10:47:00.094 1fa2f Generated table #130@0: 12 keys, 2259003 bytes
+2020/04/30-10:47:00.105 1fa2f Generated table #131@0: 12 keys, 2563944 bytes
+2020/04/30-10:47:00.114 1fa2f Generated table #132@0: 4 keys, 2275063 bytes
+2020/04/30-10:47:00.124 1fa2f Generated table #133@0: 4 keys, 2231282 bytes
+2020/04/30-10:47:00.135 1fa2f Generated table #134@0: 4 keys, 2246977 bytes
+2020/04/30-10:47:00.142 1fa2f Generated table #135@0: 1 keys, 561898 bytes
+2020/04/30-10:47:00.152 1fa2f Generated table #136@0: 4 keys, 2223171 bytes
+2020/04/30-10:47:00.162 1fa2f Generated table #137@0: 38 keys, 1793996 bytes
+2020/04/30-10:47:00.162 1fa2f Compacted 5@0 + 5@1 files => 27369847 bytes
+2020/04/30-10:47:00.169 1fa2f compacted to: files[ 0 13 12 0 0 0 0 ]
+2020/04/30-10:47:00.170 1fa2f Delete type=2 #111
+2020/04/30-10:47:00.170 1fa2f Delete type=2 #124
+2020/04/30-10:47:00.170 1fa2f Delete type=2 #113
+2020/04/30-10:47:00.170 1fa2f Delete type=2 #114
+2020/04/30-10:47:00.170 1fa2f Delete type=2 #118
+2020/04/30-10:47:00.170 1fa2f Delete type=2 #116
+2020/04/30-10:47:00.170 1fa2f Delete type=2 #121
+2020/04/30-10:47:00.170 1fa2f Delete type=2 #120
+2020/04/30-10:47:00.170 1fa2f Delete type=2 #123
+2020/04/30-10:47:00.170 1fa2f Delete type=2 #122
+2020/04/30-10:47:00.182 1fa2f Compacting 1@1 + 6@2 files
+2020/04/30-10:47:00.209 1fa2f Generated table #138@1: 15 keys, 2223832 bytes
+2020/04/30-10:47:00.218 1fa2f Generated table #139@1: 55 keys, 1440133 bytes
+2020/04/30-10:47:00.218 1fa2f Compacted 1@1 + 6@2 files => 3663965 bytes
+2020/04/30-10:47:00.222 1fa2f compacted to: files[ 0 12 8 0 0 0 0 ]
+2020/04/30-10:47:00.222 1fa2f Delete type=2 #70
+2020/04/30-10:47:00.222 1fa2f Delete type=2 #58
+2020/04/30-10:47:00.222 1fa2f Delete type=2 #59
+2020/04/30-10:47:00.222 1fa2f Delete type=2 #61
+2020/04/30-10:47:00.222 1fa2f Delete type=2 #60
+2020/04/30-10:47:00.222 1fa2f Delete type=2 #125
+2020/04/30-10:47:00.222 1fa2f Delete type=2 #72
+2020/04/30-10:47:00.228 1fa2f Moved #126 to level-2 2232654 bytes OK: files[ 0 11 9 0 0 0 0 ]
+2020/04/30-10:47:00.232 1fa2f Moved #127 to level-2 2247520 bytes OK: files[ 0 10 10 0 0 0 0 ]
+2020/04/30-10:47:00.236 1fa2f Moved #128 to level-2 2231824 bytes OK: files[ 0 9 11 0 0 0 0 ]
+2020/04/30-10:47:00.241 1fa2f Moved #129 to level-2 2275601 bytes OK: files[ 0 8 12 0 0 0 0 ]
+2020/04/30-10:47:00.243 1fa2f Moved #130 to level-2 2259003 bytes OK: files[ 0 7 13 0 0 0 0 ]
+2020/04/30-10:47:00.243 1fa2f Compacting 1@1 + 2@2 files
+2020/04/30-10:47:00.269 1fa2f Generated table #140@1: 58 keys, 2564974 bytes
+2020/04/30-10:47:00.283 1fa2f Generated table #141@1: 2 keys, 1139001 bytes
+2020/04/30-10:47:00.283 1fa2f Compacted 1@1 + 2@2 files => 3703975 bytes
+2020/04/30-10:47:00.287 1fa2f compacted to: files[ 0 6 13 0 0 0 0 ]
+2020/04/30-10:47:00.287 1fa2f Delete type=2 #139
+2020/04/30-10:47:00.287 1fa2f Delete type=2 #98
+2020/04/30-10:47:00.287 1fa2f Delete type=2 #131
+2020/04/30-10:47:00.289 1fa2f Compacting 1@1 + 2@2 files
+2020/04/30-10:47:00.307 1fa2f Generated table #142@1: 4 keys, 2275063 bytes
+2020/04/30-10:47:00.323 1fa2f Generated table #143@1: 2 keys, 1104594 bytes
+2020/04/30-10:47:00.323 1fa2f Compacted 1@1 + 2@2 files => 3379657 bytes
+2020/04/30-10:47:00.328 1fa2f compacted to: files[ 0 5 13 0 0 0 0 ]
+2020/04/30-10:47:00.328 1fa2f Delete type=2 #132
+2020/04/30-10:47:00.328 1fa2f Delete type=2 #141
+2020/04/30-10:47:00.328 1fa2f Delete type=2 #100
+2020/04/30-10:48:15.030 1fa2f Level-0 table #145: started
+2020/04/30-10:48:15.040 20c61 Current memtable full; waiting...
+2020/04/30-10:48:15.058 1fa2f Level-0 table #145: 5273294 bytes OK
+2020/04/30-10:48:15.062 1fa2f Delete type=0 #119
+2020/04/30-10:48:15.063 1fa2f Level-0 table #147: started
+2020/04/30-10:48:15.074 1fa2f Level-0 table #147: 4550795 bytes OK
+2020/04/30-10:48:15.078 1fa2f Delete type=0 #144
+2020/04/30-10:48:15.079 1fa2f Level-0 table #149: started
+2020/04/30-10:48:15.087 20c61 Current memtable full; waiting...
+2020/04/30-10:48:15.091 1fa2f Level-0 table #149: 4463243 bytes OK
+2020/04/30-10:48:15.095 1fa2f Delete type=0 #146
+2020/04/30-10:48:15.096 1fa2f Level-0 table #151: started
+2020/04/30-10:48:15.105 20c61 Current memtable full; waiting...
+2020/04/30-10:48:15.108 1fa2f Level-0 table #151: 4494630 bytes OK
+2020/04/30-10:48:15.112 1fa2f Delete type=0 #148
+2020/04/30-10:48:15.113 1fa2f Compacting 4@0 + 5@1 files
+2020/04/30-10:48:15.114 1fa2f Level-0 table #153: started
+2020/04/30-10:48:15.123 20c61 Current memtable full; waiting...
+2020/04/30-10:48:15.127 1fa2f Level-0 table #153: 4464894 bytes OK
+2020/04/30-10:48:15.131 1fa2f Delete type=0 #150
+2020/04/30-10:48:15.132 1fa2f Level-0 table #156: started
+2020/04/30-10:48:15.144 1fa2f Level-0 table #156: 4447760 bytes OK
+2020/04/30-10:48:15.154 1fa2f Delete type=0 #152
+2020/04/30-10:48:15.164 1fa2f Generated table #155@0: 111 keys, 2248967 bytes
+2020/04/30-10:48:15.174 1fa2f Generated table #157@0: 12 keys, 2231826 bytes
+2020/04/30-10:48:15.185 1fa2f Generated table #158@0: 12 keys, 2275601 bytes
+2020/04/30-10:48:15.194 1fa2f Generated table #159@0: 12 keys, 2259005 bytes
+2020/04/30-10:48:15.204 1fa2f Generated table #160@0: 11 keys, 2510770 bytes
+2020/04/30-10:48:15.213 1fa2f Generated table #161@0: 4 keys, 2275062 bytes
+2020/04/30-10:48:15.223 1fa2f Generated table #162@0: 4 keys, 2231283 bytes
+2020/04/30-10:48:15.231 1fa2f Generated table #163@0: 2 keys, 1130844 bytes
+2020/04/30-10:48:15.240 1fa2f Generated table #164@0: 4 keys, 2237210 bytes
+2020/04/30-10:48:15.250 1fa2f Generated table #165@0: 4 keys, 2216576 bytes
+2020/04/30-10:48:15.258 1fa2f Generated table #166@0: 37 keys, 1241610 bytes
+2020/04/30-10:48:15.258 1fa2f Compacted 4@0 + 5@1 files => 22858754 bytes
+2020/04/30-10:48:15.261 1fa2f compacted to: files[ 2 11 13 0 0 0 0 ]
+2020/04/30-10:48:15.261 1fa2f Delete type=2 #134
+2020/04/30-10:48:15.261 1fa2f Delete type=2 #135
+2020/04/30-10:48:15.261 1fa2f Delete type=2 #151
+2020/04/30-10:48:15.261 1fa2f Delete type=2 #145
+2020/04/30-10:48:15.261 1fa2f Delete type=2 #149
+2020/04/30-10:48:15.261 1fa2f Delete type=2 #137
+2020/04/30-10:48:15.261 1fa2f Delete type=2 #136
+2020/04/30-10:48:15.261 1fa2f Delete type=2 #147
+2020/04/30-10:48:15.261 1fa2f Delete type=2 #133
+2020/04/30-10:48:15.264 1fa2f Expanding@1 1+2 (2231283+3362120 bytes) to 2+2 (3362127+3362120 bytes)
+2020/04/30-10:48:15.264 1fa2f Compacting 2@1 + 2@2 files
+2020/04/30-10:48:15.274 1fa2f Generated table #167@1: 4 keys, 2231283 bytes
+2020/04/30-10:48:15.287 1fa2f Generated table #168@1: 2 keys, 1130844 bytes
+2020/04/30-10:48:15.287 1fa2f Compacted 2@1 + 2@2 files => 3362127 bytes
+2020/04/30-10:48:15.291 1fa2f compacted to: files[ 2 9 13 0 0 0 0 ]
+2020/04/30-10:48:15.291 1fa2f Delete type=2 #143
+2020/04/30-10:48:15.291 1fa2f Delete type=2 #102
+2020/04/30-10:48:15.291 1fa2f Delete type=2 #162
+2020/04/30-10:48:15.291 1fa2f Delete type=2 #163
+2020/04/30-10:48:15.292 1fa2f Compacting 1@1 + 2@2 files
+2020/04/30-10:48:15.303 1fa2f Generated table #169@1: 4 keys, 2237210 bytes
+2020/04/30-10:48:15.312 1fa2f Generated table #170@1: 3 keys, 1663992 bytes
+2020/04/30-10:48:15.312 1fa2f Compacted 1@1 + 2@2 files => 3901202 bytes
+2020/04/30-10:48:15.316 1fa2f compacted to: files[ 2 8 13 0 0 0 0 ]
+2020/04/30-10:48:15.316 1fa2f Delete type=2 #104
+2020/04/30-10:48:15.316 1fa2f Delete type=2 #164
+2020/04/30-10:48:15.316 1fa2f Delete type=2 #103
+2020/04/30-10:48:15.317 1fa2f Expanding@1 1+2 (2216576+3457436 bytes) to 2+2 (3458186+3457436 bytes)
+2020/04/30-10:48:15.317 1fa2f Compacting 2@1 + 2@2 files
+2020/04/30-10:48:15.328 1fa2f Generated table #171@1: 4 keys, 2216576 bytes
+2020/04/30-10:48:15.337 1fa2f Generated table #172@1: 37 keys, 1241610 bytes
+2020/04/30-10:48:15.337 1fa2f Compacted 2@1 + 2@2 files => 3458186 bytes
+2020/04/30-10:48:15.341 1fa2f compacted to: files[ 2 6 13 0 0 0 0 ]
+2020/04/30-10:48:15.341 1fa2f Delete type=2 #170
+2020/04/30-10:48:15.341 1fa2f Delete type=2 #166
+2020/04/30-10:48:15.341 1fa2f Delete type=2 #105
+2020/04/30-10:48:15.341 1fa2f Delete type=2 #165
+2020/04/30-10:48:15.342 1fa2f Expanding@1 1+7 (2248967+16035408 bytes) to 5+7 (11526169+16035408 bytes)
+2020/04/30-10:48:15.342 1fa2f Compacting 5@1 + 7@2 files
+2020/04/30-10:48:15.357 1fa2f Generated table #173@1: 15 keys, 2247527 bytes
+2020/04/30-10:48:15.367 1fa2f Generated table #174@1: 12 keys, 2231826 bytes
+2020/04/30-10:48:15.378 1fa2f Generated table #175@1: 12 keys, 2275601 bytes
+2020/04/30-10:48:15.388 1fa2f Generated table #176@1: 12 keys, 2259005 bytes
+2020/04/30-10:48:15.401 1fa2f Generated table #177@1: 58 keys, 2565640 bytes
+2020/04/30-10:48:15.401 1fa2f Compacted 5@1 + 7@2 files => 11579599 bytes
+2020/04/30-10:48:15.405 1fa2f compacted to: files[ 2 1 11 0 0 0 0 ]
+2020/04/30-10:48:15.405 1fa2f Delete type=2 #158
+2020/04/30-10:48:15.405 1fa2f Delete type=2 #138
+2020/04/30-10:48:15.405 1fa2f Delete type=2 #160
+2020/04/30-10:48:15.405 1fa2f Delete type=2 #155
+2020/04/30-10:48:15.405 1fa2f Delete type=2 #129
+2020/04/30-10:48:15.405 1fa2f Delete type=2 #130
+2020/04/30-10:48:15.405 1fa2f Delete type=2 #159
+2020/04/30-10:48:15.405 1fa2f Delete type=2 #157
+2020/04/30-10:48:15.405 1fa2f Delete type=2 #140
+2020/04/30-10:48:15.405 1fa2f Delete type=2 #128
+2020/04/30-10:48:15.405 1fa2f Delete type=2 #126
+2020/04/30-10:48:15.405 1fa2f Delete type=2 #127
+2020/04/30-10:50:46.523 1fa2f Level-0 table #179: started
+2020/04/30-10:50:46.547 1fa2f Level-0 table #179: 5257175 bytes OK
+2020/04/30-10:50:46.552 1fa2f Delete type=0 #154
+2020/04/30-10:50:46.556 1fa2f Level-0 table #181: started
+2020/04/30-10:50:46.578 1fa2f Level-0 table #181: 4550802 bytes OK
+2020/04/30-10:50:46.582 1fa2f Delete type=0 #178
+2020/04/30-10:50:46.582 1fa2f Compacting 4@0 + 1@1 files
+2020/04/30-10:50:46.598 1fa2f Generated table #182@0: 99 keys, 2276851 bytes
+2020/04/30-10:50:46.609 1fa2f Generated table #183@0: 12 keys, 2259010 bytes
+2020/04/30-10:50:46.612 1fa2f Level-0 table #186: started
+2020/04/30-10:50:46.631 204cc Current memtable full; waiting...
+2020/04/30-10:50:46.631 1fa2f Level-0 table #186: 4463246 bytes OK
+2020/04/30-10:50:46.638 1fa2f Delete type=0 #180
+2020/04/30-10:50:46.640 1fa2f Level-0 table #188: started
+2020/04/30-10:50:46.653 204cc Current memtable full; waiting...
+2020/04/30-10:50:46.656 1fa2f Level-0 table #188: 4494635 bytes OK
+2020/04/30-10:50:46.660 1fa2f Delete type=0 #185
+2020/04/30-10:50:46.662 1fa2f Level-0 table #190: started
+2020/04/30-10:50:46.673 204cc Current memtable full; waiting...
+2020/04/30-10:50:46.676 1fa2f Level-0 table #190: 4464898 bytes OK
+2020/04/30-10:50:46.686 1fa2f Delete type=0 #187
+2020/04/30-10:50:46.694 1fa2f Generated table #184@0: 10 keys, 2506477 bytes
+2020/04/30-10:50:46.694 1fa2f Level-0 table #192: started
+2020/04/30-10:50:46.709 1fa2f Level-0 table #192: 4447707 bytes OK
+2020/04/30-10:50:46.716 1fa2f Delete type=0 #189
+2020/04/30-10:50:46.727 1fa2f Generated table #193@0: 4 keys, 2275062 bytes
+2020/04/30-10:50:46.737 1fa2f Generated table #194@0: 4 keys, 2232106 bytes
+2020/04/30-10:50:46.745 1fa2f Generated table #195@0: 2 keys, 1105538 bytes
+2020/04/30-10:50:46.754 1fa2f Generated table #196@0: 23 keys, 1238904 bytes
+2020/04/30-10:50:46.754 1fa2f Compacted 4@0 + 1@1 files => 13893948 bytes
+2020/04/30-10:50:46.758 1fa2f compacted to: files[ 4 7 11 0 0 0 0 ]
+2020/04/30-10:50:46.759 1fa2f Delete type=2 #156
+2020/04/30-10:50:46.759 1fa2f Delete type=2 #153
+2020/04/30-10:50:46.759 1fa2f Delete type=2 #161
+2020/04/30-10:50:46.759 1fa2f Delete type=2 #179
+2020/04/30-10:50:46.759 1fa2f Delete type=2 #181
+2020/04/30-10:50:46.762 1fa2f Compacting 1@1 + 1@2 files
+2020/04/30-10:50:46.776 1fa2f Generated table #197@1: 4 keys, 2275062 bytes
+2020/04/30-10:50:46.777 1fa2f Compacted 1@1 + 1@2 files => 2275062 bytes
+2020/04/30-10:50:46.781 1fa2f compacted to: files[ 4 6 11 0 0 0 0 ]
+2020/04/30-10:50:46.781 1fa2f Delete type=2 #193
+2020/04/30-10:50:46.781 1fa2f Delete type=2 #142
+2020/04/30-10:50:46.782 1fa2f Expanding@1 1+2 (2232106+4453786 bytes) to 2+2 (3337644+4453786 bytes)
+2020/04/30-10:50:46.782 1fa2f Compacting 2@1 + 2@2 files
+2020/04/30-10:50:46.797 1fa2f Generated table #198@1: 4 keys, 2237208 bytes
+2020/04/30-10:50:46.811 1fa2f Generated table #199@1: 4 keys, 2216573 bytes
+2020/04/30-10:50:46.811 1fa2f Compacted 2@1 + 2@2 files => 4453781 bytes
+2020/04/30-10:50:46.815 1fa2f compacted to: files[ 4 4 11 0 0 0 0 ]
+2020/04/30-10:50:46.815 1fa2f Delete type=2 #169
+2020/04/30-10:50:46.815 1fa2f Delete type=2 #195
+2020/04/30-10:50:46.815 1fa2f Delete type=2 #171
+2020/04/30-10:50:46.815 1fa2f Delete type=2 #194
+2020/04/30-10:50:46.816 1fa2f Compacting 4@0 + 4@1 files
+2020/04/30-10:50:46.830 1fa2f Generated table #200@0: 99 keys, 2225303 bytes
+2020/04/30-10:50:46.844 1fa2f Generated table #201@0: 12 keys, 2232657 bytes
+2020/04/30-10:50:46.857 1fa2f Generated table #202@0: 12 keys, 2247527 bytes
+2020/04/30-10:50:46.878 1fa2f Generated table #203@0: 12 keys, 2231830 bytes
+2020/04/30-10:50:46.896 1fa2f Generated table #204@0: 12 keys, 2275609 bytes
+2020/04/30-10:50:46.914 1fa2f Generated table #205@0: 12 keys, 2259010 bytes
+2020/04/30-10:50:46.932 1fa2f Generated table #206@0: 10 keys, 2506477 bytes
+2020/04/30-10:50:46.949 1fa2f Generated table #207@0: 4 keys, 2231282 bytes
+2020/04/30-10:50:46.966 1fa2f Generated table #208@0: 4 keys, 2246977 bytes
+2020/04/30-10:50:46.982 1fa2f Generated table #209@0: 4 keys, 2232105 bytes
+2020/04/30-10:50:46.993 1fa2f Generated table #210@0: 2 keys, 1105538 bytes
+2020/04/30-10:50:47.004 1fa2f Generated table #211@0: 31 keys, 1238982 bytes
+2020/04/30-10:50:47.004 1fa2f Compacted 4@0 + 4@1 files => 25033297 bytes
+2020/04/30-10:50:47.009 1fa2f compacted to: files[ 0 12 11 0 0 0 0 ]
+2020/04/30-10:50:47.009 1fa2f Delete type=2 #192
+2020/04/30-10:50:47.009 1fa2f Delete type=2 #190
+2020/04/30-10:50:47.009 1fa2f Delete type=2 #196
+2020/04/30-10:50:47.009 1fa2f Delete type=2 #182
+2020/04/30-10:50:47.009 1fa2f Delete type=2 #183
+2020/04/30-10:50:47.009 1fa2f Delete type=2 #188
+2020/04/30-10:50:47.009 1fa2f Delete type=2 #186
+2020/04/30-10:50:47.009 1fa2f Delete type=2 #184
+2020/04/30-10:50:47.014 1fa2f Compacting 1@1 + 1@2 files
+2020/04/30-10:50:47.026 1fa2f Generated table #212@1: 37 keys, 1241125 bytes
+2020/04/30-10:50:47.026 1fa2f Compacted 1@1 + 1@2 files => 1241125 bytes
+2020/04/30-10:50:47.033 1fa2f compacted to: files[ 0 11 11 0 0 0 0 ]
+2020/04/30-10:50:47.033 1fa2f Delete type=2 #172
+2020/04/30-10:50:47.033 1fa2f Delete type=2 #211
+2020/04/30-10:50:47.034 1fa2f Expanding@1 1+5 (2225303+11579599 bytes) to 7+5 (15978413+11579599 bytes)
+2020/04/30-10:50:47.034 1fa2f Compacting 7@1 + 5@2 files
+2020/04/30-10:50:47.054 1fa2f Generated table #213@1: 15 keys, 2224069 bytes
+2020/04/30-10:50:47.071 1fa2f Generated table #214@1: 12 keys, 2232657 bytes
+2020/04/30-10:50:47.082 1fa2f Generated table #215@1: 12 keys, 2247527 bytes
+2020/04/30-10:50:47.093 1fa2f Generated table #216@1: 12 keys, 2231830 bytes
+2020/04/30-10:50:47.105 1fa2f Generated table #217@1: 12 keys, 2275609 bytes
+2020/04/30-10:50:47.133 1fa2f Generated table #218@1: 12 keys, 2259010 bytes
+2020/04/30-10:50:47.162 1fa2f Generated table #219@1: 58 keys, 2565400 bytes
+2020/04/30-10:50:47.162 1fa2f Compacted 7@1 + 5@2 files => 16036102 bytes
+2020/04/30-10:50:47.166 1fa2f compacted to: files[ 0 4 13 0 0 0 0 ]
+2020/04/30-10:50:47.167 1fa2f Delete type=2 #200
+2020/04/30-10:50:47.167 1fa2f Delete type=2 #203
+2020/04/30-10:50:47.167 1fa2f Delete type=2 #205
+2020/04/30-10:50:47.167 1fa2f Delete type=2 #173
+2020/04/30-10:50:47.167 1fa2f Delete type=2 #202
+2020/04/30-10:50:47.167 1fa2f Delete type=2 #204
+2020/04/30-10:50:47.167 1fa2f Delete type=2 #175
+2020/04/30-10:50:47.167 1fa2f Delete type=2 #177
+2020/04/30-10:50:47.167 1fa2f Delete type=2 #206
+2020/04/30-10:50:47.167 1fa2f Delete type=2 #174
+2020/04/30-10:50:47.167 1fa2f Delete type=2 #201
+2020/04/30-10:50:47.167 1fa2f Delete type=2 #176
+2020/04/30-11:19:20.847 1fa2f Level-0 table #221: started
+2020/04/30-11:19:20.858 20c61 Current memtable full; waiting...
+2020/04/30-11:19:20.873 1fa2f Level-0 table #221: 4359293 bytes OK
+2020/04/30-11:19:20.877 1fa2f Delete type=0 #191
+2020/04/30-11:19:20.878 1fa2f Level-0 table #223: started
+2020/04/30-11:19:20.892 1fa2f Level-0 table #223: 4546582 bytes OK
+2020/04/30-11:19:20.897 1fa2f Delete type=0 #220
+2020/04/30-11:19:20.905 1fa2f Level-0 table #225: started
+2020/04/30-11:19:20.921 20c61 Current memtable full; waiting...
+2020/04/30-11:19:20.923 1fa2f Level-0 table #225: 4458410 bytes OK
+2020/04/30-11:19:20.928 1fa2f Delete type=0 #222
+2020/04/30-11:19:20.929 1fa2f Level-0 table #227: started
+2020/04/30-11:19:20.943 20c61 Current memtable full; waiting...
+2020/04/30-11:19:20.948 1fa2f Level-0 table #227: 4503397 bytes OK
+2020/04/30-11:19:20.952 1fa2f Delete type=0 #224
+2020/04/30-11:19:20.953 1fa2f Compacting 4@0 + 4@1 files
+2020/04/30-11:19:20.954 1fa2f Level-0 table #229: started
+2020/04/30-11:19:20.967 1fa2f Level-0 table #229: 4471468 bytes OK
+2020/04/30-11:19:20.970 20c61 Current memtable full; waiting...
+2020/04/30-11:19:20.972 1fa2f Delete type=0 #226
+2020/04/30-11:19:20.972 1fa2f Level-0 table #232: started
+2020/04/30-11:19:20.987 1fa2f Level-0 table #232: 4441446 bytes OK
+2020/04/30-11:19:20.991 1fa2f Delete type=0 #228
+2020/04/30-11:19:21.003 1fa2f Generated table #230@0: 139 keys, 2255028 bytes
+2020/04/30-11:19:21.013 1fa2f Generated table #233@0: 12 keys, 2227004 bytes
+2020/04/30-11:19:21.023 1fa2f Generated table #234@0: 12 keys, 2273497 bytes
+2020/04/30-11:19:21.034 1fa2f Generated table #235@0: 23 keys, 2551474 bytes
+2020/04/30-11:19:21.045 1fa2f Generated table #236@0: 4 keys, 2256875 bytes
+2020/04/30-11:19:21.056 1fa2f Generated table #237@0: 4 keys, 2252303 bytes
+2020/04/30-11:19:21.069 1fa2f Generated table #238@0: 4 keys, 2260533 bytes
+2020/04/30-11:19:21.076 1fa2f Generated table #239@0: 1 keys, 553536 bytes
+2020/04/30-11:19:21.087 1fa2f Generated table #240@0: 4 keys, 2241599 bytes
+2020/04/30-11:19:21.099 1fa2f Generated table #241@0: 4 keys, 2216572 bytes
+2020/04/30-11:19:21.103 1fa2f Generated table #242@0: 26 keys, 123266 bytes
+2020/04/30-11:19:21.103 1fa2f Compacted 4@0 + 4@1 files => 21211687 bytes
+2020/04/30-11:19:21.107 1fa2f compacted to: files[ 2 11 13 0 0 0 0 ]
+2020/04/30-11:19:21.107 1fa2f Delete type=2 #210
+2020/04/30-11:19:21.107 1fa2f Delete type=2 #225
+2020/04/30-11:19:21.107 1fa2f Delete type=2 #223
+2020/04/30-11:19:21.107 1fa2f Delete type=2 #207
+2020/04/30-11:19:21.107 1fa2f Delete type=2 #221
+2020/04/30-11:19:21.107 1fa2f Delete type=2 #209
+2020/04/30-11:19:21.107 1fa2f Delete type=2 #208
+2020/04/30-11:19:21.107 1fa2f Delete type=2 #227
+2020/04/30-11:19:21.110 1fa2f Compacting 1@1 + 2@2 files
+2020/04/30-11:19:21.125 1fa2f Generated table #243@1: 58 keys, 2565401 bytes
+2020/04/30-11:19:21.137 1fa2f Generated table #244@1: 4 keys, 2275063 bytes
+2020/04/30-11:19:21.138 1fa2f Compacted 1@1 + 2@2 files => 4840464 bytes
+2020/04/30-11:19:21.141 1fa2f compacted to: files[ 2 10 13 0 0 0 0 ]
+2020/04/30-11:19:21.141 1fa2f Delete type=2 #197
+2020/04/30-11:19:21.142 1fa2f Delete type=2 #219
+2020/04/30-11:19:21.142 1fa2f Delete type=2 #236
+2020/04/30-11:19:21.143 1fa2f Compacting 1@1 + 2@2 files
+2020/04/30-11:19:21.165 1fa2f Generated table #245@1: 4 keys, 2265861 bytes
+2020/04/30-11:19:21.176 1fa2f Generated table #246@1: 4 keys, 2238794 bytes
+2020/04/30-11:19:21.176 1fa2f Compacted 1@1 + 2@2 files => 4504655 bytes
+2020/04/30-11:19:21.183 1fa2f compacted to: files[ 2 9 13 0 0 0 0 ]
+2020/04/30-11:19:21.183 1fa2f Delete type=2 #237
+2020/04/30-11:19:21.183 1fa2f Delete type=2 #167
+2020/04/30-11:19:21.183 1fa2f Delete type=2 #244
+2020/04/30-11:19:21.185 1fa2f Expanding@1 1+2 (2260533+3369638 bytes) to 2+2 (2814069+3369638 bytes)
+2020/04/30-11:19:21.185 1fa2f Compacting 2@1 + 2@2 files
+2020/04/30-11:19:21.197 1fa2f Generated table #247@1: 4 keys, 2246400 bytes
+2020/04/30-11:19:21.208 1fa2f Generated table #248@1: 2 keys, 1123000 bytes
+2020/04/30-11:19:21.208 1fa2f Compacted 2@1 + 2@2 files => 3369400 bytes
+2020/04/30-11:19:21.211 1fa2f compacted to: files[ 2 7 13 0 0 0 0 ]
+2020/04/30-11:19:21.212 1fa2f Delete type=2 #238
+2020/04/30-11:19:21.212 1fa2f Delete type=2 #246
+2020/04/30-11:19:21.212 1fa2f Delete type=2 #239
+2020/04/30-11:19:21.212 1fa2f Delete type=2 #168
+2020/04/30-11:19:21.213 1fa2f Compacting 1@1 + 1@2 files
+2020/04/30-11:19:21.226 1fa2f Generated table #249@1: 4 keys, 2241599 bytes
+2020/04/30-11:19:21.226 1fa2f Compacted 1@1 + 1@2 files => 2241599 bytes
+2020/04/30-11:19:21.230 1fa2f compacted to: files[ 2 6 13 0 0 0 0 ]
+2020/04/30-11:19:21.230 1fa2f Delete type=2 #198
+2020/04/30-11:19:21.230 1fa2f Delete type=2 #240
+2020/04/30-11:19:21.230 1fa2f Compacting 1@1 + 1@2 files
+2020/04/30-11:19:21.241 1fa2f Generated table #250@1: 4 keys, 2216572 bytes
+2020/04/30-11:19:21.241 1fa2f Compacted 1@1 + 1@2 files => 2216572 bytes
+2020/04/30-11:19:21.245 1fa2f compacted to: files[ 2 5 13 0 0 0 0 ]
+2020/04/30-11:19:21.245 1fa2f Delete type=2 #199
+2020/04/30-11:19:21.245 1fa2f Delete type=2 #241
+2020/04/30-11:19:23.093 1fa2f Level-0 table #252: started
+2020/04/30-11:19:23.104 20c61 Current memtable full; waiting...
+2020/04/30-11:19:23.115 1fa2f Level-0 table #252: 5205854 bytes OK
+2020/04/30-11:19:23.120 1fa2f Delete type=0 #231
+2020/04/30-11:19:23.123 1fa2f Level-0 table #254: started
+2020/04/30-11:19:23.148 1fa2f Level-0 table #254: 4546586 bytes OK
+2020/04/30-11:19:23.152 1fa2f Delete type=0 #251
+2020/04/30-11:19:23.153 1fa2f Compacting 4@0 + 5@1 files
+2020/04/30-11:19:23.159 1fa2f Level-0 table #257: started
+2020/04/30-11:19:23.169 20c61 Current memtable full; waiting...
+2020/04/30-11:19:23.173 1fa2f Level-0 table #257: 4463228 bytes OK
+2020/04/30-11:19:23.178 1fa2f Delete type=0 #253
+2020/04/30-11:19:23.181 1fa2f Level-0 table #259: started
+2020/04/30-11:19:23.199 20c61 Current memtable full; waiting...
+2020/04/30-11:19:23.201 1fa2f Level-0 table #259: 4501049 bytes OK
+2020/04/30-11:19:23.205 1fa2f Delete type=0 #256
+2020/04/30-11:19:23.206 1fa2f Level-0 table #261: started
+2020/04/30-11:19:23.222 20c61 Current memtable full; waiting...
+2020/04/30-11:19:23.223 1fa2f Level-0 table #261: 4467756 bytes OK
+2020/04/30-11:19:23.228 1fa2f Delete type=0 #258
+2020/04/30-11:19:23.230 1fa2f Level-0 table #263: started
+2020/04/30-11:19:23.255 1fa2f Level-0 table #263: 4448567 bytes OK
+2020/04/30-11:19:23.259 1fa2f Delete type=0 #260
+2020/04/30-11:19:23.277 1fa2f Generated table #255@0: 227 keys, 2276744 bytes
+2020/04/30-11:19:23.295 1fa2f Generated table #264@0: 23 keys, 2551480 bytes
+2020/04/30-11:19:23.306 1fa2f Generated table #265@0: 4 keys, 2256875 bytes
+2020/04/30-11:19:23.315 1fa2f Generated table #266@0: 2 keys, 1144106 bytes
+2020/04/30-11:19:23.324 1fa2f Generated table #267@0: 4 keys, 2233534 bytes
+2020/04/30-11:19:23.334 1fa2f Generated table #268@0: 4 keys, 2223935 bytes
+2020/04/30-11:19:23.340 1fa2f Generated table #269@0: 36 keys, 679818 bytes
+2020/04/30-11:19:23.340 1fa2f Compacted 4@0 + 5@1 files => 13366492 bytes
+2020/04/30-11:19:23.344 1fa2f compacted to: files[ 4 7 13 0 0 0 0 ]
+2020/04/30-11:19:23.344 1fa2f Delete type=2 #235
+2020/04/30-11:19:23.344 1fa2f Delete type=2 #230
+2020/04/30-11:19:23.344 1fa2f Delete type=2 #254
+2020/04/30-11:19:23.344 1fa2f Delete type=2 #232
+2020/04/30-11:19:23.344 1fa2f Delete type=2 #242
+2020/04/30-11:19:23.344 1fa2f Delete type=2 #233
+2020/04/30-11:19:23.344 1fa2f Delete type=2 #229
+2020/04/30-11:19:23.344 1fa2f Delete type=2 #234
+2020/04/30-11:19:23.344 1fa2f Delete type=2 #252
+2020/04/30-11:19:23.347 1fa2f Compacting 1@1 + 2@2 files
+2020/04/30-11:19:23.357 1fa2f Generated table #270@1: 4 keys, 2218739 bytes
+2020/04/30-11:19:23.365 1fa2f Generated table #271@1: 37 keys, 1246079 bytes
+2020/04/30-11:19:23.365 1fa2f Compacted 1@1 + 2@2 files => 3464818 bytes
+2020/04/30-11:19:23.372 1fa2f compacted to: files[ 4 6 13 0 0 0 0 ]
+2020/04/30-11:19:23.372 1fa2f Delete type=2 #250
+2020/04/30-11:19:23.372 1fa2f Delete type=2 #268
+2020/04/30-11:19:23.372 1fa2f Delete type=2 #212
+2020/04/30-11:19:23.373 1fa2f Compacting 1@1 + 1@2 files
+2020/04/30-11:19:23.381 1fa2f Generated table #272@1: 37 keys, 1239830 bytes
+2020/04/30-11:19:23.381 1fa2f Compacted 1@1 + 1@2 files => 1239830 bytes
+2020/04/30-11:19:23.385 1fa2f compacted to: files[ 4 5 13 0 0 0 0 ]
+2020/04/30-11:19:23.385 1fa2f Delete type=2 #271
+2020/04/30-11:19:23.385 1fa2f Delete type=2 #269
+2020/04/30-11:19:23.385 1fa2f Compacting 4@0 + 5@1 files
+2020/04/30-11:19:23.395 1fa2f Generated table #273@0: 227 keys, 2227730 bytes
+2020/04/30-11:19:23.406 1fa2f Generated table #274@0: 12 keys, 2234087 bytes
+2020/04/30-11:19:23.416 1fa2f Generated table #275@0: 12 keys, 2250731 bytes
+2020/04/30-11:19:23.436 1fa2f Generated table #276@0: 12 keys, 2231821 bytes
+2020/04/30-11:19:23.456 1fa2f Generated table #277@0: 12 keys, 2273501 bytes
+2020/04/30-11:19:23.476 1fa2f Generated table #278@0: 23 keys, 2551480 bytes
+2020/04/30-11:19:23.489 1fa2f Generated table #279@0: 4 keys, 2256875 bytes
+2020/04/30-11:19:23.503 1fa2f Generated table #280@0: 4 keys, 2252303 bytes
+2020/04/30-11:19:23.518 1fa2f Generated table #281@0: 4 keys, 2260534 bytes
+2020/04/30-11:19:23.525 1fa2f Generated table #282@0: 1 keys, 553536 bytes
+2020/04/30-11:19:23.539 1fa2f Generated table #283@0: 4 keys, 2237049 bytes
+2020/04/30-11:19:23.553 1fa2f Generated table #284@0: 4 keys, 2219573 bytes
+2020/04/30-11:19:23.560 1fa2f Generated table #285@0: 17 keys, 560534 bytes
+2020/04/30-11:19:23.560 1fa2f Compacted 4@0 + 5@1 files => 26109754 bytes
+2020/04/30-11:19:23.564 1fa2f compacted to: files[ 0 13 13 0 0 0 0 ]
+2020/04/30-11:19:23.564 1fa2f Delete type=2 #267
+2020/04/30-11:19:23.564 1fa2f Delete type=2 #257
+2020/04/30-11:19:23.564 1fa2f Delete type=2 #264
+2020/04/30-11:19:23.564 1fa2f Delete type=2 #265
+2020/04/30-11:19:23.564 1fa2f Delete type=2 #255
+2020/04/30-11:19:23.565 1fa2f Delete type=2 #263
+2020/04/30-11:19:23.565 1fa2f Delete type=2 #259
+2020/04/30-11:19:23.565 1fa2f Delete type=2 #261
+2020/04/30-11:19:23.565 1fa2f Delete type=2 #266
+2020/04/30-11:19:23.570 1fa2f Compacting 1@1 + 7@2 files
+2020/04/30-11:19:23.591 1fa2f Generated table #286@1: 15 keys, 2224494 bytes
+2020/04/30-11:19:23.606 1fa2f Generated table #287@1: 57 keys, 2565360 bytes
+2020/04/30-11:19:23.606 1fa2f Compacted 1@1 + 7@2 files => 4789854 bytes
+2020/04/30-11:19:23.610 1fa2f compacted to: files[ 0 12 8 0 0 0 0 ]
+2020/04/30-11:19:23.610 1fa2f Delete type=2 #214
+2020/04/30-11:19:23.610 1fa2f Delete type=2 #216
+2020/04/30-11:19:23.610 1fa2f Delete type=2 #215
+2020/04/30-11:19:23.610 1fa2f Delete type=2 #218
+2020/04/30-11:19:23.610 1fa2f Delete type=2 #243
+2020/04/30-11:19:23.610 1fa2f Delete type=2 #213
+2020/04/30-11:19:23.610 1fa2f Delete type=2 #273
+2020/04/30-11:19:23.610 1fa2f Delete type=2 #217
+2020/04/30-11:19:23.617 1fa2f Moved #274 to level-2 2234087 bytes OK: files[ 0 11 9 0 0 0 0 ]
+2020/04/30-11:19:23.621 1fa2f Moved #275 to level-2 2250731 bytes OK: files[ 0 10 10 0 0 0 0 ]
+2020/04/30-11:19:23.625 1fa2f Moved #276 to level-2 2231821 bytes OK: files[ 0 9 11 0 0 0 0 ]
+2020/04/30-11:19:23.629 1fa2f Moved #277 to level-2 2273501 bytes OK: files[ 0 8 12 0 0 0 0 ]
+2020/04/30-11:19:23.629 1fa2f Compacting 1@1 + 1@2 files
+2020/04/30-11:19:23.644 1fa2f Generated table #288@1: 64 keys, 2551601 bytes
+2020/04/30-11:19:23.655 1fa2f Generated table #289@1: 3 keys, 1687990 bytes
+2020/04/30-11:19:23.655 1fa2f Compacted 1@1 + 1@2 files => 4239591 bytes
+2020/04/30-11:19:23.659 1fa2f compacted to: files[ 0 7 13 0 0 0 0 ]
+2020/04/30-11:19:23.659 1fa2f Delete type=2 #287
+2020/04/30-11:19:23.659 1fa2f Delete type=2 #278
+2020/04/30-11:19:23.660 1fa2f Compacting 1@1 + 2@2 files
+2020/04/30-11:19:23.680 1fa2f Generated table #290@1: 4 keys, 2256875 bytes
+2020/04/30-11:19:23.692 1fa2f Generated table #291@1: 3 keys, 1696974 bytes
+2020/04/30-11:19:23.692 1fa2f Compacted 1@1 + 2@2 files => 3953849 bytes
+2020/04/30-11:19:23.699 1fa2f compacted to: files[ 0 6 13 0 0 0 0 ]
+2020/04/30-11:19:23.699 1fa2f Delete type=2 #279
+2020/04/30-11:19:23.699 1fa2f Delete type=2 #245
+2020/04/30-11:19:23.699 1fa2f Delete type=2 #289
+2020/04/30-11:56:06.544 1fa2f Level-0 table #293: started
+2020/04/30-11:56:06.562 1fa2f Level-0 table #293: 4314595 bytes OK
+2020/04/30-11:56:06.565 2b5f1 Current memtable full; waiting...
+2020/04/30-11:56:06.566 1fa2f Delete type=0 #262
+2020/04/30-11:56:06.567 1fa2f Level-0 table #295: started
+2020/04/30-11:56:06.592 1fa2f Level-0 table #295: 4526438 bytes OK
+2020/04/30-11:56:06.593 2b5f1 Current memtable full; waiting...
+2020/04/30-11:56:06.596 1fa2f Delete type=0 #292
+2020/04/30-11:56:06.596 1fa2f Level-0 table #297: started
+2020/04/30-11:56:06.615 2b5f1 Current memtable full; waiting...
+2020/04/30-11:56:06.618 1fa2f Level-0 table #297: 4482913 bytes OK
+2020/04/30-11:56:06.622 1fa2f Delete type=0 #294
+2020/04/30-11:56:06.623 1fa2f Level-0 table #299: started
+2020/04/30-11:56:06.637 2b5f1 Current memtable full; waiting...
+2020/04/30-11:56:06.638 1fa2f Level-0 table #299: 4511003 bytes OK
+2020/04/30-11:56:06.642 1fa2f Delete type=0 #296
+2020/04/30-11:56:06.643 1fa2f Compacting 4@0 + 6@1 files
+2020/04/30-11:56:06.644 1fa2f Level-0 table #301: started
+2020/04/30-11:56:06.654 2b5f1 Current memtable full; waiting...
+2020/04/30-11:56:06.657 1fa2f Level-0 table #301: 4474790 bytes OK
+2020/04/30-11:56:06.662 1fa2f Delete type=0 #298
+2020/04/30-11:56:06.665 1fa2f Level-0 table #304: started
+2020/04/30-11:56:06.686 1fa2f Level-0 table #304: 4439853 bytes OK
+2020/04/30-11:56:06.690 1fa2f Delete type=0 #300
+2020/04/30-11:56:06.701 1fa2f Generated table #302@0: 135 keys, 2257581 bytes
+2020/04/30-11:56:06.713 1fa2f Generated table #305@0: 12 keys, 2241669 bytes
+2020/04/30-11:56:06.724 1fa2f Generated table #306@0: 12 keys, 2263427 bytes
+2020/04/30-11:56:06.735 1fa2f Generated table #307@0: 21 keys, 2551321 bytes
+2020/04/30-11:56:06.747 1fa2f Generated table #308@0: 4 keys, 2262872 bytes
+2020/04/30-11:56:06.758 1fa2f Generated table #309@0: 4 keys, 2241107 bytes
+2020/04/30-11:56:06.769 1fa2f Generated table #310@0: 4 keys, 2255150 bytes
+2020/04/30-11:56:06.781 1fa2f Generated table #311@0: 4 keys, 2237049 bytes
+2020/04/30-11:56:06.792 1fa2f Generated table #312@0: 4 keys, 2219573 bytes
+2020/04/30-11:56:06.800 1fa2f Generated table #313@0: 37 keys, 1239833 bytes
+2020/04/30-11:56:06.800 1fa2f Compacted 4@0 + 6@1 files => 21769582 bytes
+2020/04/30-11:56:06.803 1fa2f compacted to: files[ 2 10 13 0 0 0 0 ]
+2020/04/30-11:56:06.804 1fa2f Delete type=2 #295
+2020/04/30-11:56:06.804 1fa2f Delete type=2 #285
+2020/04/30-11:56:06.804 1fa2f Delete type=2 #297
+2020/04/30-11:56:06.804 1fa2f Delete type=2 #280
+2020/04/30-11:56:06.804 1fa2f Delete type=2 #283
+2020/04/30-11:56:06.804 1fa2f Delete type=2 #284
+2020/04/30-11:56:06.804 1fa2f Delete type=2 #299
+2020/04/30-11:56:06.804 1fa2f Delete type=2 #281
+2020/04/30-11:56:06.804 1fa2f Delete type=2 #293
+2020/04/30-11:56:06.804 1fa2f Delete type=2 #282
+2020/04/30-11:56:06.807 1fa2f Compacting 1@1 + 2@2 files
+2020/04/30-11:56:06.818 1fa2f Generated table #314@1: 4 keys, 2256876 bytes
+2020/04/30-11:56:06.829 1fa2f Generated table #315@1: 3 keys, 1696975 bytes
+2020/04/30-11:56:06.829 1fa2f Compacted 1@1 + 2@2 files => 3953851 bytes
+2020/04/30-11:56:06.832 1fa2f compacted to: files[ 2 9 13 0 0 0 0 ]
+2020/04/30-11:56:06.832 1fa2f Delete type=2 #291
+2020/04/30-11:56:06.832 1fa2f Delete type=2 #290
+2020/04/30-11:56:06.832 1fa2f Delete type=2 #308
+2020/04/30-11:56:06.833 1fa2f Compacting 1@1 + 2@2 files
+2020/04/30-11:56:06.844 1fa2f Generated table #316@1: 4 keys, 2252303 bytes
+2020/04/30-11:56:06.854 1fa2f Generated table #317@1: 3 keys, 1691079 bytes
+2020/04/30-11:56:06.854 1fa2f Compacted 1@1 + 2@2 files => 3943382 bytes
+2020/04/30-11:56:06.864 1fa2f compacted to: files[ 2 8 13 0 0 0 0 ]
+2020/04/30-11:56:06.864 1fa2f Delete type=2 #309
+2020/04/30-11:56:06.864 1fa2f Delete type=2 #315
+2020/04/30-11:56:06.864 1fa2f Delete type=2 #247
+2020/04/30-11:56:06.865 1fa2f Compacting 1@1 + 2@2 files
+2020/04/30-11:56:06.880 1fa2f Generated table #318@1: 4 keys, 2260533 bytes
+2020/04/30-11:56:06.886 1fa2f Generated table #319@1: 1 keys, 553536 bytes
+2020/04/30-11:56:06.886 1fa2f Compacted 1@1 + 2@2 files => 2814069 bytes
+2020/04/30-11:56:06.890 1fa2f compacted to: files[ 2 7 13 0 0 0 0 ]
+2020/04/30-11:56:06.890 1fa2f Delete type=2 #317
+2020/04/30-11:56:06.890 1fa2f Delete type=2 #310
+2020/04/30-11:56:06.890 1fa2f Delete type=2 #248
+2020/04/30-11:56:06.891 1fa2f Compacting 1@1 + 1@2 files
+2020/04/30-11:56:06.902 1fa2f Generated table #320@1: 4 keys, 2237049 bytes
+2020/04/30-11:56:06.902 1fa2f Compacted 1@1 + 1@2 files => 2237049 bytes
+2020/04/30-11:56:06.909 1fa2f compacted to: files[ 2 6 13 0 0 0 0 ]
+2020/04/30-11:56:06.909 1fa2f Delete type=2 #249
+2020/04/30-11:56:06.909 1fa2f Delete type=2 #311
+2020/04/30-11:56:06.910 1fa2f Compacting 1@1 + 1@2 files
+2020/04/30-11:56:06.921 1fa2f Generated table #321@1: 4 keys, 2219573 bytes
+2020/04/30-11:56:06.921 1fa2f Compacted 1@1 + 1@2 files => 2219573 bytes
+2020/04/30-11:56:06.925 1fa2f compacted to: files[ 2 5 13 0 0 0 0 ]
+2020/04/30-11:56:06.925 1fa2f Delete type=2 #312
+2020/04/30-11:56:06.925 1fa2f Delete type=2 #270
+2020/04/30-11:56:06.926 1fa2f Compacting 1@1 + 1@2 files
+2020/04/30-11:56:06.935 1fa2f Generated table #322@1: 37 keys, 1239833 bytes
+2020/04/30-11:56:06.935 1fa2f Compacted 1@1 + 1@2 files => 1239833 bytes
+2020/04/30-11:56:06.939 1fa2f compacted to: files[ 2 4 13 0 0 0 0 ]
+2020/04/30-11:56:06.940 1fa2f Delete type=2 #272
+2020/04/30-11:56:06.940 1fa2f Delete type=2 #313
+2020/04/30-11:56:09.363 1fa2f Level-0 table #324: started
+2020/04/30-11:56:09.381 2b5f1 Current memtable full; waiting...
+2020/04/30-11:56:09.383 1fa2f Level-0 table #324: 5191518 bytes OK
+2020/04/30-11:56:09.387 1fa2f Delete type=0 #303
+2020/04/30-11:56:09.388 1fa2f Level-0 table #326: started
+2020/04/30-11:56:09.402 1fa2f Level-0 table #326: 4526440 bytes OK
+2020/04/30-11:56:09.404 2b5f1 Current memtable full; waiting...
+2020/04/30-11:56:09.407 1fa2f Delete type=0 #323
+2020/04/30-11:56:09.407 1fa2f Compacting 4@0 + 4@1 files
+2020/04/30-11:56:09.408 1fa2f Level-0 table #328: started
+2020/04/30-11:56:09.421 2b5f1 Current memtable full; waiting...
+2020/04/30-11:56:09.423 1fa2f Level-0 table #328: 4482914 bytes OK
+2020/04/30-11:56:09.427 1fa2f Delete type=0 #325
+2020/04/30-11:56:09.428 1fa2f Level-0 table #331: started
+2020/04/30-11:56:09.446 2b5f1 Current memtable full; waiting...
+2020/04/30-11:56:09.449 1fa2f Level-0 table #331: 4511000 bytes OK
+2020/04/30-11:56:09.453 1fa2f Delete type=0 #327
+2020/04/30-11:56:09.455 1fa2f Level-0 table #333: started
+2020/04/30-11:56:09.470 2b5f1 Current memtable full; waiting...
+2020/04/30-11:56:09.471 1fa2f Level-0 table #333: 4474788 bytes OK
+2020/04/30-11:56:09.475 1fa2f Delete type=0 #330
+2020/04/30-11:56:09.477 1fa2f Level-0 table #335: started
+2020/04/30-11:56:09.496 1fa2f Level-0 table #335: 4439850 bytes OK
+2020/04/30-11:56:09.501 1fa2f Delete type=0 #332
+2020/04/30-11:56:09.527 1fa2f Generated table #329@0: 223 keys, 2266614 bytes
+2020/04/30-11:56:09.543 1fa2f Generated table #336@0: 21 keys, 2551324 bytes
+2020/04/30-11:56:09.556 1fa2f Generated table #337@0: 4 keys, 2262872 bytes
+2020/04/30-11:56:09.574 1fa2f Generated table #338@0: 4 keys, 2237049 bytes
+2020/04/30-11:56:09.587 1fa2f Generated table #339@0: 4 keys, 2219573 bytes
+2020/04/30-11:56:09.599 1fa2f Generated table #340@0: 23 keys, 1237113 bytes
+2020/04/30-11:56:09.599 1fa2f Compacted 4@0 + 4@1 files => 12774545 bytes
+2020/04/30-11:56:09.603 1fa2f compacted to: files[ 4 6 13 0 0 0 0 ]
+2020/04/30-11:56:09.603 1fa2f Delete type=2 #304
+2020/04/30-11:56:09.603 1fa2f Delete type=2 #326
+2020/04/30-11:56:09.603 1fa2f Delete type=2 #324
+2020/04/30-11:56:09.603 1fa2f Delete type=2 #307
+2020/04/30-11:56:09.603 1fa2f Delete type=2 #306
+2020/04/30-11:56:09.603 1fa2f Delete type=2 #305
+2020/04/30-11:56:09.603 1fa2f Delete type=2 #301
+2020/04/30-11:56:09.603 1fa2f Delete type=2 #302
+2020/04/30-11:56:09.608 1fa2f Compacting 1@1 + 6@2 files
+2020/04/30-11:56:09.629 1fa2f Generated table #341@1: 15 keys, 2263432 bytes
+2020/04/30-11:56:09.637 1fa2f Generated table #342@1: 54 keys, 852777 bytes
+2020/04/30-11:56:09.637 1fa2f Compacted 1@1 + 6@2 files => 3116209 bytes
+2020/04/30-11:56:09.641 1fa2f compacted to: files[ 4 5 9 0 0 0 0 ]
+2020/04/30-11:56:09.641 1fa2f Delete type=2 #286
+2020/04/30-11:56:09.641 1fa2f Delete type=2 #276
+2020/04/30-11:56:09.641 1fa2f Delete type=2 #275
+2020/04/30-11:56:09.641 1fa2f Delete type=2 #329
+2020/04/30-11:56:09.641 1fa2f Delete type=2 #274
+2020/04/30-11:56:09.641 1fa2f Delete type=2 #288
+2020/04/30-11:56:09.641 1fa2f Delete type=2 #277
+2020/04/30-11:56:09.643 1fa2f Compacting 1@1 + 2@2 files
+2020/04/30-11:56:09.658 1fa2f Generated table #343@1: 62 keys, 2551441 bytes
+2020/04/30-11:56:09.667 1fa2f Generated table #344@1: 3 keys, 1692961 bytes
+2020/04/30-11:56:09.667 1fa2f Compacted 1@1 + 2@2 files => 4244402 bytes
+2020/04/30-11:56:09.671 1fa2f compacted to: files[ 4 4 9 0 0 0 0 ]
+2020/04/30-11:56:09.671 1fa2f Delete type=2 #342
+2020/04/30-11:56:09.672 1fa2f Delete type=2 #314
+2020/04/30-11:56:09.672 1fa2f Delete type=2 #336
+2020/04/30-11:56:09.673 1fa2f Compacting 4@0 + 4@1 files
+2020/04/30-11:56:09.684 1fa2f Generated table #345@0: 10 keys, 2220003 bytes
+2020/04/30-11:56:09.698 1fa2f Generated table #346@0: 12 keys, 2237603 bytes
+2020/04/30-11:56:09.712 1fa2f Generated table #347@0: 12 keys, 2255708 bytes
+2020/04/30-11:56:09.725 1fa2f Generated table #348@0: 12 keys, 2241667 bytes
+2020/04/30-11:56:09.737 1fa2f Generated table #349@0: 7 keys, 2263036 bytes
+2020/04/30-11:56:09.749 1fa2f Generated table #350@0: 4 keys, 2241107 bytes
+2020/04/30-11:56:09.763 1fa2f Generated table #351@0: 4 keys, 2255151 bytes
+2020/04/30-11:56:09.778 1fa2f Generated table #352@0: 4 keys, 2237049 bytes
+2020/04/30-11:56:09.791 1fa2f Generated table #353@0: 4 keys, 2219573 bytes
+2020/04/30-11:56:09.802 1fa2f Generated table #354@0: 31 keys, 1237206 bytes
+2020/04/30-11:56:09.802 1fa2f Compacted 4@0 + 4@1 files => 21408103 bytes
+2020/04/30-11:56:09.808 1fa2f compacted to: files[ 0 10 9 0 0 0 0 ]
+2020/04/30-11:56:09.808 1fa2f Delete type=2 #335
+2020/04/30-11:56:09.808 1fa2f Delete type=2 #328
+2020/04/30-11:56:09.808 1fa2f Delete type=2 #340
+2020/04/30-11:56:09.808 1fa2f Delete type=2 #338
+2020/04/30-11:56:09.808 1fa2f Delete type=2 #339
+2020/04/30-11:56:09.808 1fa2f Delete type=2 #337
+2020/04/30-11:56:09.808 1fa2f Delete type=2 #333
+2020/04/30-11:56:09.808 1fa2f Delete type=2 #331
+2020/04/30-11:56:09.812 1fa2f Compacting 1@1 + 4@2 files
+2020/04/30-11:56:09.823 1fa2f Generated table #355@1: 17 keys, 2263565 bytes
+2020/04/30-11:56:09.834 1fa2f Generated table #356@1: 62 keys, 2551438 bytes
+2020/04/30-11:56:09.850 1fa2f Generated table #357@1: 4 keys, 2262872 bytes
+2020/04/30-11:56:09.863 1fa2f Generated table #358@1: 3 keys, 1682391 bytes
+2020/04/30-11:56:09.863 1fa2f Compacted 1@1 + 4@2 files => 8760266 bytes
+2020/04/30-11:56:09.866 1fa2f compacted to: files[ 0 9 9 0 0 0 0 ]
+2020/04/30-11:56:09.866 1fa2f Delete type=2 #344
+2020/04/30-11:56:09.866 1fa2f Delete type=2 #316
+2020/04/30-11:56:09.866 1fa2f Delete type=2 #341
+2020/04/30-11:56:09.866 1fa2f Delete type=2 #343
+2020/04/30-11:56:09.866 1fa2f Delete type=2 #349
+2020/04/30-11:56:09.869 1fa2f Compacting 1@1 + 2@2 files
+2020/04/30-11:56:09.883 1fa2f Generated table #359@1: 4 keys, 2241107 bytes
+2020/04/30-11:56:09.896 1fa2f Generated table #360@1: 3 keys, 1701816 bytes
+2020/04/30-11:56:09.896 1fa2f Compacted 1@1 + 2@2 files => 3942923 bytes
+2020/04/30-11:56:09.900 1fa2f compacted to: files[ 0 8 9 0 0 0 0 ]
+2020/04/30-11:56:09.900 1fa2f Delete type=2 #318
+2020/04/30-11:56:09.900 1fa2f Delete type=2 #358
+2020/04/30-11:56:09.900 1fa2f Delete type=2 #350
+2020/04/30-11:56:09.901 1fa2f Compacting 1@1 + 2@2 files
+2020/04/30-11:56:09.917 1fa2f Generated table #361@1: 4 keys, 2255151 bytes
+2020/04/30-11:56:09.917 1fa2f Compacted 1@1 + 2@2 files => 2255151 bytes
+2020/04/30-11:56:09.921 1fa2f compacted to: files[ 0 7 8 0 0 0 0 ]
+2020/04/30-11:56:09.922 1fa2f Delete type=2 #360
+2020/04/30-11:56:09.922 1fa2f Delete type=2 #319
+2020/04/30-11:56:09.922 1fa2f Delete type=2 #351
+2020/04/30-11:56:09.923 1fa2f Compacting 1@1 + 1@2 files
+2020/04/30-11:56:09.943 1fa2f Generated table #362@1: 4 keys, 2237049 bytes
+2020/04/30-11:56:09.943 1fa2f Compacted 1@1 + 1@2 files => 2237049 bytes
+2020/04/30-11:56:09.947 1fa2f compacted to: files[ 0 6 8 0 0 0 0 ]
+2020/04/30-11:56:09.947 1fa2f Delete type=2 #320
+2020/04/30-11:56:09.947 1fa2f Delete type=2 #352
+2020/04/30-11:56:09.948 1fa2f Compacting 1@1 + 1@2 files
+2020/04/30-11:56:09.960 1fa2f Generated table #363@1: 4 keys, 2219573 bytes
+2020/04/30-11:56:09.960 1fa2f Compacted 1@1 + 1@2 files => 2219573 bytes
+2020/04/30-11:56:09.964 1fa2f compacted to: files[ 0 5 8 0 0 0 0 ]
+2020/04/30-11:56:09.964 1fa2f Delete type=2 #321
+2020/04/30-11:56:09.964 1fa2f Delete type=2 #353
+2020/04/30-11:58:21.988 1fa2f Level-0 table #365: started
+2020/04/30-11:58:22.001 1fa2f Level-0 table #365: 2475756 bytes OK
+2020/04/30-11:58:22.006 1fa2f Delete type=0 #334
+2020/04/30-11:58:22.007 1fa2f Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x01\x03\x02\x01'\x00c\x001\x008\x00f\x000\x00a\x00a\x00a\x00c\x008\x004\x007\x00f\x00f\x00d\x00f\x00c\x00d\x008\x005\x005\x00b\x000\x008\x009\x001\x006\x006\x004\x00b\x00a\x004\x00_\x003\x00_\x002\x00:\x002\x004' @ 3943 : 1
+2020/04/30-11:58:22.007 1fa2f Compacting 1@0 + 5@1 files
+2020/04/30-11:58:22.023 1fa2f Generated table #366@0: 115 keys, 1238759 bytes
+2020/04/30-11:58:22.023 1fa2f Compacted 1@0 + 5@1 files => 1238759 bytes
+2020/04/30-11:58:22.027 1fa2f compacted to: files[ 0 1 8 0 0 0 0 ]
+2020/04/30-11:58:22.027 1fa2f Delete type=2 #365
+2020/04/30-11:58:22.027 1fa2f Delete type=2 #346
+2020/04/30-11:58:22.027 1fa2f Delete type=2 #348
+2020/04/30-11:58:22.027 1fa2f Delete type=2 #354
+2020/04/30-11:58:22.027 1fa2f Delete type=2 #345
+2020/04/30-11:58:22.027 1fa2f Delete type=2 #347
+2020/04/30-11:58:22.028 1fa2f Manual compaction at level-0 from '\x00\x01\x03\x02\x01'\x00c\x001\x008\x00f\x000\x00a\x00a\x00a\x00c\x008\x004\x007\x00f\x00f\x00d\x00f\x00c\x00d\x008\x005\x005\x00b\x000\x008\x009\x001\x006\x006\x004\x00b\x00a\x004\x00_\x003\x00_\x002\x00:\x002\x004' @ 3943 : 1 .. (end); will stop at (end)
+2020/04/30-11:58:22.029 1fa2f Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x03\x02\x01'\x00c\x001\x008\x00f\x000\x00a\x00a\x00a\x00c\x008\x004\x007\x00f\x00f\x00d\x00f\x00c\x00d\x008\x005\x005\x00b\x000\x008\x009\x001\x006\x006\x004\x00b\x00a\x004\x00_\x003\x00_\x004\x00:\x000\x000' @ 3775 : 1
+2020/04/30-11:58:22.029 1fa2f Compacting 1@1 + 8@2 files
+2020/04/30-11:58:22.044 1fa2f Generated table #367@1: 61 keys, 2540604 bytes
+2020/04/30-11:58:22.057 1fa2f Generated table #368@1: 4 keys, 2265861 bytes
+2020/04/30-11:58:22.075 1fa2f Generated table #369@1: 4 keys, 2246401 bytes
+2020/04/30-11:58:22.101 1fa2f Generated table #370@1: 4 keys, 2243854 bytes
+2020/04/30-11:58:22.122 1fa2f Generated table #371@1: 4 keys, 2223693 bytes
+2020/04/30-11:58:22.148 1fa2f Generated table #372@1: 4 keys, 2227659 bytes
+2020/04/30-11:58:22.156 1fa2f Generated table #373@1: 35 keys, 124240 bytes
+2020/04/30-11:58:22.156 1fa2f Compacted 1@1 + 8@2 files => 13872312 bytes
+2020/04/30-11:58:22.164 1fa2f compacted to: files[ 0 0 7 0 0 0 0 ]
+2020/04/30-11:58:22.164 1fa2f Delete type=2 #362
+2020/04/30-11:58:22.164 1fa2f Delete type=2 #357
+2020/04/30-11:58:22.164 1fa2f Delete type=2 #363
+2020/04/30-11:58:22.164 1fa2f Delete type=2 #359
+2020/04/30-11:58:22.164 1fa2f Delete type=2 #322
+2020/04/30-11:58:22.164 1fa2f Delete type=2 #366
+2020/04/30-11:58:22.164 1fa2f Delete type=2 #361
+2020/04/30-11:58:22.164 1fa2f Delete type=2 #356
+2020/04/30-11:58:22.164 1fa2f Delete type=2 #355
+2020/04/30-11:58:22.177 1fa2f Manual compaction at level-1 from '\x00\x01\x03\x02\x01'\x00c\x001\x008\x00f\x000\x00a\x00a\x00a\x00c\x008\x004\x007\x00f\x00f\x00d\x00f\x00c\x00d\x008\x005\x005\x00b\x000\x008\x009\x001\x006\x006\x004\x00b\x00a\x004\x00_\x003\x00_\x004\x00:\x000\x000' @ 3775 : 1 .. (end); will stop at (end)

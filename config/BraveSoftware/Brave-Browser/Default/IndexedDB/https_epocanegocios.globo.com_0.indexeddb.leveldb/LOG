@@ -1,0 +1,8 @@
+2020/07/28-20:41:02.257 943b Reusing MANIFEST /home/arthur/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_epocanegocios.globo.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/28-20:41:02.257 943b Recovering log #10
+2020/07/28-20:41:02.257 943b Reusing old log /home/arthur/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_epocanegocios.globo.com_0.indexeddb.leveldb/000010.log 
+2020/07/28-20:41:34.264 6e5 Level-0 table #15: started
+2020/07/28-20:41:34.264 6e5 Level-0 table #15: 0 bytes OK
+2020/07/28-20:41:34.274 6e5 Delete type=0 #10
+2020/07/28-20:41:34.274 6e5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/07/28-20:41:34.274 6e5 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

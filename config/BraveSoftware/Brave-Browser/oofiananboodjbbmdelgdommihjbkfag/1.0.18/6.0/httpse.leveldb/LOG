@@ -1,0 +1,7 @@
+2020/10/14-09:13:53.482 3ff Recovering log #3
+2020/10/14-09:13:53.597 3ff Level-0 table #5: started
+2020/10/14-09:13:53.668 3ff Level-0 table #5: 2853472 bytes OK
+2020/10/14-09:13:53.670 3ff Recovering log #137
+2020/10/14-09:13:53.711 3ff Delete type=0 #137
+2020/10/14-09:13:53.711 3ff Delete type=3 #2
+2020/10/14-09:13:53.711 3ff Delete type=0 #3

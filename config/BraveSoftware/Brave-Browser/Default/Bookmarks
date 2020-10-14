@@ -1,0 +1,126 @@
+{
+   "checksum": "0d0fec7b044b043f554e25514a25c41f",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13232505116000000",
+            "guid": "7f2456be-588c-4fc5-8716-0e78306f2d83",
+            "id": "5",
+            "name": "Getting Started",
+            "type": "url",
+            "url": "https://www.mozilla.org/en-US/firefox/central/"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13232505116000000",
+                  "guid": "59e9b52b-ae52-4746-b183-a804ef91015c",
+                  "id": "8",
+                  "name": "Help and Tutorials",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/en-US/products/firefox"
+               }, {
+                  "date_added": "13232505116000000",
+                  "guid": "e104bf4f-43ad-41e2-83f3-4b63e384b82d",
+                  "id": "9",
+                  "name": "Customize Firefox",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/en-US/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&utm_medium=default-bookmarks&utm_campaign=customize"
+               }, {
+                  "date_added": "13232505116000000",
+                  "guid": "1ad2c6b3-2500-4144-95e0-782fddc86c92",
+                  "id": "10",
+                  "name": "Get Involved",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/en-US/contribute/"
+               }, {
+                  "date_added": "13232505116000000",
+                  "guid": "f8499380-0d15-4730-ac4c-64e4e908840c",
+                  "id": "11",
+                  "name": "About Us",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/en-US/about/"
+               } ],
+               "date_added": "13232572022127262",
+               "date_modified": "0",
+               "guid": "a74dd4c5-7956-47af-bd6a-07bd1a694d49",
+               "id": "7",
+               "name": "Mozilla Firefox",
+               "type": "folder"
+            }, {
+               "date_added": "13232826939681039",
+               "guid": "5962ef6b-67b2-474b-8fdb-1eef7f9f9023",
+               "id": "13",
+               "name": "Dwarf Geomancer - Medivia Online Wiki",
+               "type": "url",
+               "url": "https://wiki.mediviastats.info/Dwarf_Geomancer"
+            }, {
+               "date_added": "13232857149669723",
+               "guid": "df92988e-ebaa-4b01-bb3a-d86b73fa021b",
+               "id": "14",
+               "name": "Fan speed control - ArchWiki",
+               "type": "url",
+               "url": "https://wiki.archlinux.org/index.php/Fan_speed_control"
+            }, {
+               "date_added": "13233871871457164",
+               "guid": "07dc3f17-1d09-4cc6-aaf7-e12926dfbfa3",
+               "id": "16",
+               "name": "QI Tech",
+               "type": "url",
+               "url": "https://www.qitech.com.br/documentation?file=443"
+            }, {
+               "date_added": "13234486868244040",
+               "guid": "e8bf79e2-5bc2-4ebb-a9ca-b17e6eeaf57c",
+               "id": "18",
+               "name": "Do Things: A Clojure Crash Course | Clojure for the Brave and True",
+               "type": "url",
+               "url": "https://www.braveclojure.com/do-things/"
+            } ],
+            "date_added": "13232572022126578",
+            "date_modified": "13235242372684910",
+            "guid": "233f5689-ce76-455c-9f09-d48e06783861",
+            "id": "6",
+            "name": "Imported From Firefox",
+            "type": "folder"
+         }, {
+            "date_added": "13244511649462398",
+            "guid": "46f64ebe-c809-43c2-b47d-6b43a6f17d1d",
+            "id": "24",
+            "name": "Passagens saindo de São Paulo para Budapeste | Skyscanner",
+            "type": "url",
+            "url": "https://www.skyscanner.com.br/transport/flights/saoa/bud/210730/?adultsv2=1&cabinclass=economy&childrenv2=&inboundaltsenabled=false&outboundaltsenabled=false&preferdirects=false&rtn=0"
+         }, {
+            "date_added": "13246431482649173",
+            "guid": "daf1a0a2-0738-4ca3-85c2-4eedf8792042",
+            "id": "26",
+            "name": "Monitor Dell 27: S2721DS | Dell Brasil",
+            "type": "url",
+            "url": "https://www.dell.com/pt-br/shop/monitor-quadhd-27-dell-s2721ds/apd/210-axkp/monitores-e-acess%C3%B3rios"
+         } ],
+         "date_added": "13232572003648653",
+         "date_modified": "13246431482649173",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13232572003648656",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13232572003648660",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

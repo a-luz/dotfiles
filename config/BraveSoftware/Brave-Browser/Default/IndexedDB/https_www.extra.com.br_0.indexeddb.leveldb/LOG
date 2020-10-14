@@ -1,0 +1,5 @@
+2020/10/09-14:59:53.256 554c Reusing MANIFEST /home/arthur/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.extra.com.br_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/09-15:00:45.264 3c9b Level-0 table #5: started
+2020/10/09-15:00:45.274 3c9b Level-0 table #5: 1350 bytes OK
+2020/10/09-15:00:45.279 3c9b Delete type=0 #3
+2020/10/09-15:00:45.279 3c9b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,15 @@
+2020/08/20-11:51:32.454 1104 Reusing MANIFEST /home/arthur/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_fossbytes.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/20-11:51:32.454 1104 Recovering log #4
+2020/08/20-11:51:32.455 1104 Reusing old log /home/arthur/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_fossbytes.com_0.indexeddb.leveldb/000004.log 
+2020/08/20-11:53:50.621 7fa Level-0 table #8: started
+2020/08/20-11:53:50.625 7fa Level-0 table #8: 1528 bytes OK
+2020/08/20-11:53:50.629 7fa Delete type=0 #4
+2020/08/20-11:53:50.629 7fa Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/08/20-11:53:50.629 7fa Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01\x11\x00s\x00p\x00o\x00t\x00i\x00m\x00-\x00s\x00e\x00g\x00m\x00e\x00n\x00t\x00-\x00d\x00b' @ 455 : 1
+2020/08/20-11:53:50.629 7fa Compacting 1@1 + 1@2 files
+2020/08/20-11:53:50.633 7fa Generated table #9@1: 135 keys, 2356 bytes
+2020/08/20-11:53:50.633 7fa Compacted 1@1 + 1@2 files => 2356 bytes
+2020/08/20-11:53:50.637 7fa compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/08/20-11:53:50.638 7fa Delete type=2 #8
+2020/08/20-11:53:50.638 7fa Delete type=2 #5
+2020/08/20-11:53:50.638 7fa Manual compaction at level-1 from '\x00\x02\x01\x02\x01\x11\x00s\x00p\x00o\x00t\x00i\x00m\x00-\x00s\x00e\x00g\x00m\x00e\x00n\x00t\x00-\x00d\x00b' @ 455 : 1 .. (end); will stop at (end)

@@ -1,0 +1,5 @@
+2020/07/27-20:03:15.111 a536 Reusing MANIFEST /home/arthur/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_collider.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/27-20:05:23.220 43ab Level-0 table #5: started
+2020/07/27-20:05:23.229 43ab Level-0 table #5: 5686 bytes OK
+2020/07/27-20:05:23.233 43ab Delete type=0 #3
+2020/07/27-20:05:23.233 43ab Manual compaction at level-0 from (begin) .. (end); will stop at (end)

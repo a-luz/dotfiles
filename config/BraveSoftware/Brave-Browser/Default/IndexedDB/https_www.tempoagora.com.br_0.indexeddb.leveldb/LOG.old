@@ -1,0 +1,15 @@
+2020/07/01-08:58:20.640 1ae4 Reusing MANIFEST /home/arthur/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.tempoagora.com.br_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/01-08:58:20.640 1ae4 Recovering log #4
+2020/07/01-08:58:20.640 1ae4 Reusing old log /home/arthur/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.tempoagora.com.br_0.indexeddb.leveldb/000004.log 
+2020/07/01-08:58:53.526 274d Level-0 table #8: started
+2020/07/01-08:58:53.531 274d Level-0 table #8: 7374 bytes OK
+2020/07/01-08:58:53.535 274d Delete type=0 #4
+2020/07/01-08:58:53.536 274d Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/07/01-08:58:53.536 274d Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01O\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00w\x00w\x00.\x00t\x00e\x00m\x00p\x00o\x00a\x00g\x00o\x00r\x00a\x00.\x00c\x00o\x00m\x00.\x00b\x00r\x00/\x00_\x00n\x00u\x00x\x00t\x00/\x00p\x00a\x00g\x00e\x00s\x00/\x00t\x00e\x00r\x00m\x00o\x00s\x00-\x00d\x00e\x00-\x00u\x00s\x00o\x00.\x009\x00d\x005\x005\x00c\x003\x004\x00b\x00c\x001\x00e\x006\x00e\x00e\x004\x006\x005\x00c\x007\x004\x00.\x00j\x00s' @ 447 : 1
+2020/07/01-08:58:53.536 274d Compacting 1@1 + 1@2 files
+2020/07/01-08:58:53.541 274d Generated table #9@1: 94 keys, 6547 bytes
+2020/07/01-08:58:53.541 274d Compacted 1@1 + 1@2 files => 6547 bytes
+2020/07/01-08:58:53.545 274d compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/07/01-08:58:53.546 274d Delete type=2 #8
+2020/07/01-08:58:53.546 274d Delete type=2 #5
+2020/07/01-08:58:53.546 274d Manual compaction at level-1 from '\x00\x01\x01\x02\x01O\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00w\x00w\x00.\x00t\x00e\x00m\x00p\x00o\x00a\x00g\x00o\x00r\x00a\x00.\x00c\x00o\x00m\x00.\x00b\x00r\x00/\x00_\x00n\x00u\x00x\x00t\x00/\x00p\x00a\x00g\x00e\x00s\x00/\x00t\x00e\x00r\x00m\x00o\x00s\x00-\x00d\x00e\x00-\x00u\x00s\x00o\x00.\x009\x00d\x005\x005\x00c\x003\x004\x00b\x00c\x001\x00e\x006\x00e\x00e\x004\x006\x005\x00c\x007\x004\x00.\x00j\x00s' @ 447 : 1 .. (end); will stop at (end)

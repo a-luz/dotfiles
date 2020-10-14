@@ -1,0 +1,7 @@
+2020/10/05-07:45:20.837 3fb Reusing MANIFEST /home/arthur/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_odysee.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/05-07:45:20.837 3fb Recovering log #3
+2020/10/05-07:45:20.839 3fb Reusing old log /home/arthur/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_odysee.com_0.indexeddb.leveldb/000003.log 
+2020/10/05-09:43:02.024 932 Level-0 table #5: started
+2020/10/05-09:43:02.037 932 Level-0 table #5: 509710 bytes OK
+2020/10/05-09:43:02.041 932 Delete type=0 #3
+2020/10/05-09:43:02.042 932 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

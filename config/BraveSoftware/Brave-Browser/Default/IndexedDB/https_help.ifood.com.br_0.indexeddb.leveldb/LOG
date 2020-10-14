@@ -1,0 +1,5 @@
+2020/09/30-13:44:37.653 3972 Reusing MANIFEST /home/arthur/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_help.ifood.com.br_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/30-13:45:51.133 69a Level-0 table #5: started
+2020/09/30-13:45:51.137 69a Level-0 table #5: 8892 bytes OK
+2020/09/30-13:45:51.141 69a Delete type=0 #3
+2020/09/30-13:45:51.141 69a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

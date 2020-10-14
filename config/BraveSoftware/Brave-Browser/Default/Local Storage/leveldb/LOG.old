@@ -1,0 +1,48 @@
+2020/10/14-08:57:12.914 dce1 Reusing MANIFEST /home/arthur/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-022500
+2020/10/14-08:57:12.915 dce1 Recovering log #27351
+2020/10/14-08:57:12.919 dce1 Level-0 table #27354: started
+2020/10/14-08:57:12.942 dce1 Level-0 table #27354: 76867 bytes OK
+2020/10/14-08:57:12.961 dce1 Delete type=0 #27351
+2020/10/14-08:57:12.961 dd19 Compacting 4@0 + 2@1 files
+2020/10/14-08:57:13.066 dd19 Generated table #27356@0: 1010 keys, 2383043 bytes
+2020/10/14-08:57:13.096 dd19 Generated table #27357@0: 1179 keys, 801175 bytes
+2020/10/14-08:57:13.096 dd19 Compacted 4@0 + 2@1 files => 3184218 bytes
+2020/10/14-08:57:13.113 dd19 compacted to: files[ 0 2 5 0 0 0 0 ]
+2020/10/14-08:57:13.113 dd19 Delete type=2 #27345
+2020/10/14-08:57:13.113 dd19 Delete type=2 #27347
+2020/10/14-08:57:13.113 dd19 Delete type=2 #27352
+2020/10/14-08:57:13.113 dd19 Delete type=2 #27354
+2020/10/14-08:57:13.113 dd19 Delete type=2 #27344
+2020/10/14-08:57:13.113 dd19 Delete type=2 #27349
+2020/10/14-08:57:18.671 dd19 Level-0 table #27359: started
+2020/10/14-08:57:18.696 dd19 Level-0 table #27359: 76884 bytes OK
+2020/10/14-08:57:18.711 dd19 Delete type=0 #27355
+2020/10/14-08:57:22.598 dd19 Level-0 table #27361: started
+2020/10/14-08:57:22.607 dd19 Level-0 table #27361: 45982 bytes OK
+2020/10/14-08:57:22.611 dd19 Delete type=0 #27358
+2020/10/14-09:00:13.971 dd19 Level-0 table #27363: started
+2020/10/14-09:00:13.976 dd19 Level-0 table #27363: 81889 bytes OK
+2020/10/14-09:00:13.980 dd19 Delete type=0 #27360
+2020/10/14-09:05:54.406 dd19 Level-0 table #27365: started
+2020/10/14-09:05:54.421 dd19 Level-0 table #27365: 82242 bytes OK
+2020/10/14-09:05:54.426 dd19 Delete type=0 #27362
+2020/10/14-09:05:54.426 dd19 Compacting 4@0 + 2@1 files
+2020/10/14-09:05:54.491 dd19 Generated table #27366@0: 1010 keys, 2383086 bytes
+2020/10/14-09:05:54.516 dd19 Generated table #27367@0: 1179 keys, 797396 bytes
+2020/10/14-09:05:54.516 dd19 Compacted 4@0 + 2@1 files => 3180482 bytes
+2020/10/14-09:05:54.520 dd19 compacted to: files[ 0 2 5 0 0 0 0 ]
+2020/10/14-09:05:54.520 dd19 Delete type=2 #27356
+2020/10/14-09:05:54.520 dd19 Delete type=2 #27357
+2020/10/14-09:05:54.520 dd19 Delete type=2 #27359
+2020/10/14-09:05:54.520 dd19 Delete type=2 #27363
+2020/10/14-09:05:54.520 dd19 Delete type=2 #27361
+2020/10/14-09:05:54.520 dd19 Delete type=2 #27365
+2020/10/14-09:08:04.389 dd19 Level-0 table #27369: started
+2020/10/14-09:08:04.401 dd19 Level-0 table #27369: 77318 bytes OK
+2020/10/14-09:08:04.405 dd19 Delete type=0 #27364
+2020/10/14-09:09:17.152 dd19 Level-0 table #27371: started
+2020/10/14-09:09:17.171 dd19 Level-0 table #27371: 93981 bytes OK
+2020/10/14-09:09:17.176 dd19 Delete type=0 #27368
+2020/10/14-09:10:53.408 dd19 Level-0 table #27373: started
+2020/10/14-09:10:53.460 dd19 Level-0 table #27373: 77444 bytes OK
+2020/10/14-09:10:53.467 dd19 Delete type=0 #27370

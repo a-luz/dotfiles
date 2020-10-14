@@ -1,0 +1,15 @@
+2020/09/13-12:43:20.050 a35 Reusing MANIFEST /home/arthur/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.tuasaude.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/13-12:43:20.050 a35 Recovering log #23
+2020/09/13-12:43:20.050 a35 Reusing old log /home/arthur/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.tuasaude.com_0.indexeddb.leveldb/000023.log 
+2020/09/13-12:44:52.815 a3c Level-0 table #28: started
+2020/09/13-12:44:52.824 a3c Level-0 table #28: 500 bytes OK
+2020/09/13-12:44:52.829 a3c Delete type=0 #23
+2020/09/13-12:44:52.829 a3c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/09/13-12:44:52.829 a3c Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x0e\x00_\x00_\x00s\x00a\x00k\x004\x007\x000\x004\x006\x006\x008\x004\x001' @ 138 : 1
+2020/09/13-12:44:52.829 a3c Compacting 1@1 + 1@2 files
+2020/09/13-12:44:52.833 a3c Generated table #29@1: 18 keys, 547 bytes
+2020/09/13-12:44:52.833 a3c Compacted 1@1 + 1@2 files => 547 bytes
+2020/09/13-12:44:52.837 a3c compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/09/13-12:44:52.837 a3c Delete type=2 #25
+2020/09/13-12:44:52.837 a3c Delete type=2 #28
+2020/09/13-12:44:52.837 a3c Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x0e\x00_\x00_\x00s\x00a\x00k\x004\x007\x000\x004\x006\x006\x008\x004\x001' @ 138 : 1 .. (end); will stop at (end)

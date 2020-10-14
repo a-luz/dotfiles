@@ -1,0 +1,15 @@
+2020/09/28-08:15:34.950 397 Reusing MANIFEST /home/arthur/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.primevideo.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/28-08:15:34.962 397 Recovering log #248
+2020/09/28-08:15:34.964 397 Reusing old log /home/arthur/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.primevideo.com_0.indexeddb.leveldb/000248.log 
+2020/09/28-08:15:39.246 559 Level-0 table #254: started
+2020/09/28-08:15:39.261 559 Level-0 table #254: 2015 bytes OK
+2020/09/28-08:15:39.277 559 Delete type=0 #248
+2020/09/28-08:15:39.277 559 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/09/28-08:15:39.277 559 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x1f\x03\x00@$<JMwB\x00\x01\x14\x007\x00B\x007\x004\x00M\x00P\x001\x005\x00A\x006\x00W\x00E\x005\x00F\x00V\x00H\x00C\x00B\x00K\x00J' @ 5600 : 1
+2020/09/28-08:15:39.277 559 Compacting 1@1 + 1@2 files
+2020/09/28-08:15:39.281 559 Generated table #255@1: 50 keys, 17423 bytes
+2020/09/28-08:15:39.281 559 Compacted 1@1 + 1@2 files => 17423 bytes
+2020/09/28-08:15:39.292 559 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/09/28-08:15:39.292 559 Delete type=2 #254
+2020/09/28-08:15:39.292 559 Delete type=2 #251
+2020/09/28-08:15:39.292 559 Manual compaction at level-1 from '\x00\x02\x01\x1f\x03\x00@$<JMwB\x00\x01\x14\x007\x00B\x007\x004\x00M\x00P\x001\x005\x00A\x006\x00W\x00E\x005\x00F\x00V\x00H\x00C\x00B\x00K\x00J' @ 5600 : 1 .. (end); will stop at (end)

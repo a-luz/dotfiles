@@ -1,0 +1,5 @@
+2020/05/13-16:10:46.458 1407 Reusing MANIFEST /home/arthur/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_jsoneditoronline.org_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/13-16:21:16.972 f71 Level-0 table #5: started
+2020/05/13-16:21:16.976 f71 Level-0 table #5: 4917 bytes OK
+2020/05/13-16:21:16.981 f71 Delete type=0 #3
+2020/05/13-16:21:16.981 f71 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

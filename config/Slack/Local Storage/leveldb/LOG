@@ -1,0 +1,24 @@
+2020/10/14-09:13:41.165 377 Reusing MANIFEST /home/arthur/.config/Slack/Local Storage/leveldb/MANIFEST-000001
+2020/10/14-09:13:41.179 377 Recovering log #2670
+2020/10/14-09:13:41.193 377 Reusing old log /home/arthur/.config/Slack/Local Storage/leveldb/002670.log 
+2020/10/14-09:18:41.726 81d Level-0 table #2675: started
+2020/10/14-09:18:41.767 81d Level-0 table #2675: 16741 bytes OK
+2020/10/14-09:18:41.771 81d Delete type=0 #2670
+2020/10/14-10:21:41.728 81d Level-0 table #2677: started
+2020/10/14-10:21:41.738 81d Level-0 table #2677: 18112 bytes OK
+2020/10/14-10:21:41.743 81d Delete type=0 #2674
+2020/10/14-11:04:41.728 81d Level-0 table #2679: started
+2020/10/14-11:04:41.741 81d Level-0 table #2679: 17903 bytes OK
+2020/10/14-11:04:41.745 81d Delete type=0 #2676
+2020/10/14-11:56:41.728 81d Level-0 table #2681: started
+2020/10/14-11:56:41.769 81d Level-0 table #2681: 17706 bytes OK
+2020/10/14-11:56:41.773 81d Delete type=0 #2678
+2020/10/14-11:56:41.774 81d Compacting 4@0 + 1@1 files
+2020/10/14-11:56:41.775 81d Generated table #2682@0: 48 keys, 7176 bytes
+2020/10/14-11:56:41.775 81d Compacted 4@0 + 1@1 files => 7176 bytes
+2020/10/14-11:56:41.779 81d compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/10/14-11:56:41.779 81d Delete type=2 #2677
+2020/10/14-11:56:41.779 81d Delete type=2 #2681
+2020/10/14-11:56:41.779 81d Delete type=2 #2675
+2020/10/14-11:56:41.779 81d Delete type=2 #2679
+2020/10/14-11:56:41.779 81d Delete type=2 #2672

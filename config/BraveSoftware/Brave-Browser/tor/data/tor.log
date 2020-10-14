@@ -1,0 +1,25 @@
+Oct 13 23:03:15.000 [notice] Tor 0.3.5.11 opening new log file.
+Oct 13 23:03:15.246 [notice] Tor 0.3.5.11 running on Linux with Libevent 2.1.9-beta, OpenSSL 1.0.2q, Zlib 1.2.11, Liblzma N/A, and Libzstd N/A.
+Oct 13 23:03:15.246 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://www.torproject.org/download/download#warning
+Oct 13 23:03:15.246 [notice] Configuration file "/nonexistent" not present, using reasonable defaults.
+Oct 13 23:03:15.251 [notice] Opening Socks listener on 127.0.0.1:9390
+Oct 13 23:03:15.251 [notice] Opened Socks listener on 127.0.0.1:9390
+Oct 13 23:03:15.251 [notice] Opening Control listener on 127.0.0.1:0
+Oct 13 23:03:15.251 [notice] Control listener listening on port 41655.
+Oct 13 23:03:15.251 [notice] Opened Control listener on 127.0.0.1:41655
+Oct 13 23:03:15.000 [notice] Bootstrapped 0%: Starting
+Oct 13 23:03:15.000 [notice] Starting with guard context "default"
+Oct 13 23:03:15.000 [notice] Bootstrapped 5%: Connecting to directory server
+Oct 13 23:03:15.000 [notice] Bootstrapped 10%: Finishing handshake with directory server
+Oct 13 23:03:15.000 [notice] Bootstrapped 45%: Asking for relay descriptors
+Oct 13 23:03:16.000 [notice] Bootstrapped 50%: Loading relay descriptors
+Oct 13 23:03:18.000 [notice] Bootstrapped 55%: Loading relay descriptors
+Oct 13 23:03:18.000 [notice] Bootstrapped 62%: Loading relay descriptors
+Oct 13 23:03:18.000 [notice] Bootstrapped 67%: Loading relay descriptors
+Oct 13 23:03:18.000 [notice] Bootstrapped 72%: Loading relay descriptors
+Oct 13 23:03:18.000 [notice] Bootstrapped 80%: Connecting to the Tor network
+Oct 13 23:03:19.000 [notice] Bootstrapped 85%: Finishing handshake with first hop
+Oct 13 23:03:20.000 [notice] Bootstrapped 90%: Establishing a Tor circuit
+Oct 13 23:03:20.000 [notice] Bootstrapped 100%: Done
+Oct 13 23:03:31.000 [notice] Have tried resolving or connecting to address '[scrubbed]' at 3 different places. Giving up.
+Oct 13 23:23:39.000 [notice] Catching signal TERM, exiting cleanly.
